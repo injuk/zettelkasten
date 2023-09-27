@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/Zettelkasten/2.Literature/CORS.md",
+                "file": "4.Archive/Daily/2023-09-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/Zettelkasten/2.Literature/CORS.md",
+                "file": "4.Archive/Daily/2023-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/Zettelkasten/2.Literature/CORS.md",
+                "file": "4.Archive/Daily/2023-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/Zettelkasten/2.Literature/CORS.md"
+                "file": "4.Archive/Daily/2023-09-27.md"
               }
             }
           }
@@ -149,21 +149,24 @@
   },
   "active": "c583479e20436ede",
   "lastOpenFiles": [
+    "3.Resource/Zettelkasten/2.Literature/SAGA 패턴.md",
+    "4.Archive/Daily/2023-09-27.md",
+    "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
     "3.Resource/Zettelkasten/2.Literature/DispatcherServlet.md",
+    "3.Resource/Zettelkasten/2.Literature/DB.md",
     "3.Resource/Zettelkasten/2.Literature/CORS.md",
+    "3.Resource/Zettelkasten/2.Literature/책들.md",
+    "무제 파일.md",
     "4.Archive/유용한 단축키들.md",
     "4.Archive/Dev/정적 팩토리 메소드 명명하기.md",
     "4.Archive/AWS",
     "4.Archive/Etc./HHKB.md",
     "4.Archive/AWS/AWS Lambda 관련.md",
     "4.Archive/Dev",
-    "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
     "4.Archive/Daily/Template.md",
-    "4.Archive/Daily/2023-09-27.md",
     "4.Archive/Etc./Things 테마 관련.md",
     "4.Archive/Etc.",
     "4.Archive/Daily",
-    "무제 파일.md",
     "3.Resource/Zettelkasten/3.Permanent",
     "3.Resource/Zettelkasten/2.Literature",
     "3.Resource/Zettelkasten/1.Fleeting",
