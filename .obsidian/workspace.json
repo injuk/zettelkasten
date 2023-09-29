@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6338b9b52369513d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md"
               }
             }
           }
@@ -147,8 +160,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c583479e20436ede",
+  "active": "6338b9b52369513d",
   "lastOpenFiles": [
+    "README.md",
+    "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
     "1.Project/Commentor.md",
     "3.Resource/Zettelkasten/2.Literature/SAGA 패턴.md",
     "3.Resource/Etc/유용한 단축키들.md",
@@ -160,7 +175,6 @@
     "3.Resource/IT/AWS/AWS Lambda 관련.md",
     "4.Archive/Daily/2023-09-27.md",
     "4.Archive/Daily/Template.md",
-    "README.md",
     "1.Project/Commentor",
     "4.Archive/Obsidian",
     "무제 폴더",
