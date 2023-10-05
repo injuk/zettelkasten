@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md"
+                "file": "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "c583479e20436ede",
   "lastOpenFiles": [
+    "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
+    "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
     "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
     "3.Resource/IT/Dev/정적 팩토리 메소드 명명하기.md",
     "3.Resource/IT/AWS/AWS Lambda 관련.md",
@@ -156,7 +158,6 @@
     "3.Resource/Etc/유용한 단축키들.md",
     "3.Resource/Zettelkasten/2.Literature/Spring 트랜잭션 관리.md",
     "4.Archive/Daily/2023-09-27.md",
-    "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
     "3.Resource/Zettelkasten/2.Literature/SAGA 패턴.md",
     "3.Resource/Zettelkasten/2.Literature/DispatcherServlet.md",
     "3.Resource/Zettelkasten/2.Literature/책들.md",
