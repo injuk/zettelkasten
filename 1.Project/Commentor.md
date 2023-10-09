@@ -11,5 +11,5 @@ data class UpdateRequest(
 )
 ```
 
- - [ ] upsert 쓰지 말고 그냥 update로 수정하기
- - [ ] 이미 좋아요 된 녀석 체크할 때에는 early return을 쓰기
+ - [x] upsert 쓰지 말고 그냥 update로 수정하기
+ - [x] 이미 좋아요 된 녀석 체크할 때에는 early return을 쓰기
