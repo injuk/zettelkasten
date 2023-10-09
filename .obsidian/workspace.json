@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
+                "file": "1.Project/Commentor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
+                "file": "1.Project/Commentor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
+                "file": "1.Project/Commentor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md"
+                "file": "1.Project/Commentor.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "c583479e20436ede",
   "lastOpenFiles": [
-    "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
     "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
+    "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
     "3.Resource/Zettelkasten/1.Fleeting/Cannot load driver class org.postgresql.Driver.md",
     "3.Resource/Zettelkasten/2.Literature/Spring 트랜잭션 관리.md",
     "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
