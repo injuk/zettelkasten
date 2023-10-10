@@ -2,7 +2,7 @@
 > 뭘까요
 
 ## TODO
-- [ ] like dislike는 하나로 퉁치지 말고 아래와 같이 나누기
+- [x] like dislike는 하나로 퉁치지 말고 아래와 같이 나누기
 ```
 data class UpdateRequest(
   val parts: List<T>,
