@@ -31,10 +31,10 @@ data class UpdateRequest(
  - [x] comment_interaction에 upsert 쓰지 말고 그냥 update로 수정하기
  - [x] ~~이미 좋아요 된 녀석 체크할 때에는 early return을 쓰기~~
 	 - 이게 더 가독성이 떨어지는 것 같음
- - [ ] actions controller 수정하기
-	 - [ ] [POST] /comments/action { type: BULK_DELETE }
-	 - [ ] [POST] /comments/{id}/action { type: LIKE | DISLIKE }
-
+ - [x] actions controller 수정하기
+	 - [x] [POST] /comments/action { type: BULK_DELETE }
+	 - [x] [POST] /comments/{id}/action { type: LIKE | DISLIKE }
+- [ ] create sub comment는 별도 커맨드를 만들고, parent_id를 검증해야 함
 ## 회고
 ### 좋았던 것
 - 무엇이 있을까
