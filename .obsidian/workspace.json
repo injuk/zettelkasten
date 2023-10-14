@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8338f484fa1a84e",
+        "id": "1c7a244cae0c2339",
         "type": "tabs",
         "children": [
           {
-            "id": "c583479e20436ede",
+            "id": "4012d3789ec22e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/Commentor.md",
+                "file": "1.Project/injuk-commentor/Commentor TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/Commentor.md",
+                "file": "1.Project/injuk-commentor/Commentor TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/Commentor.md",
+                "file": "1.Project/injuk-commentor/Commentor TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/Commentor.md"
+                "file": "1.Project/injuk-commentor/Commentor TODO.md"
               }
             }
           }
@@ -147,16 +147,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c583479e20436ede",
+  "active": "4012d3789ec22e0c",
   "lastOpenFiles": [
-    "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
-    "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/Cannot load driver class org.postgresql.Driver.md",
-    "3.Resource/Zettelkasten/2.Literature/Spring 트랜잭션 관리.md",
-    "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
-    "무제 파일.md",
+    "1.Project/injuk-commentor/Commentor란?.md",
+    "1.Project/injuk-commentor/Commentor 회고.md",
+    "1.Project/injuk-commentor/Commentor 설계.md",
+    "1.Project/injuk-commentor/Commentor TODO.md",
+    "1.Project/injuk-commentor",
     "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
+    "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
+    "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
+    "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
+    "3.Resource/Zettelkasten/1.Fleeting/Cannot load driver class org.postgresql.Driver.md",
+    "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
+    "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
+    "3.Resource/Zettelkasten/2.Literature/Spring 트랜잭션 관리.md",
+    "무제 파일.md",
     "3.Resource/IT/Dev/정적 팩토리 메소드 명명하기.md",
     "3.Resource/IT/AWS/AWS Lambda 관련.md",
     "3.Resource/Etc/HHKB 단축키들.md",
@@ -168,7 +174,6 @@
     "3.Resource/Zettelkasten/2.Literature/CORS.md",
     "3.Resource/Zettelkasten/2.Literature/DB.md",
     "README.md",
-    "1.Project/Commentor.md",
     "4.Archive/Obsidian/Things 테마 관련.md",
     "4.Archive/Daily/Template.md",
     "1.Project/Commentor",
@@ -179,7 +184,6 @@
     "3.Resource/IT/Dev",
     "3.Resource/Etc",
     "4.Archive/Daily",
-    "3.Resource/Zettelkasten/3.Permanent",
-    "3.Resource/Zettelkasten/2.Literature"
+    "3.Resource/Zettelkasten/3.Permanent"
   ]
 }
