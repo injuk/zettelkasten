@@ -73,4 +73,4 @@ create table comment_interactions
 );
 ```
 ---
-[[Commentor란?]]
+[[a. Commentor란?]]

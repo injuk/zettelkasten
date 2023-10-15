@@ -1,14 +1,6 @@
 #토이프로젝트 #commentor 
 
-- [x] like dislike는 하나로 퉁치지 말고 아래와 같이 나누기
-```
-data class UpdateRequest(
-  val parts: List<T>,
-  val likeCount: Int,
-  val dislikeCount: Int,
-)
-```
-
+ - [x] like / dislike는 하나로 퉁치지 말고 나누기
  - [x] comment_interaction에 upsert 쓰지 말고 그냥 update로 수정하기
  - [x] ~~이미 좋아요 된 녀석 체크할 때에는 early return을 쓰기~~
 	 - 이게 더 가독성이 떨어지는 것 같음
@@ -22,4 +14,4 @@ data class UpdateRequest(
 	- [ ] dataAccess는 테스트를 모두 작성한 후에 리팩토링하기
 - [ ] 데이터 왕창 밀어넣고 DB 인덱싱하기
 ---
-[[Commentor란?]]
+[[a. Commentor란?]]
