@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/injuk-commentor/c. Commentor TODO.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/testcontainer에 flyway로 DB seeding하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/injuk-commentor/c. Commentor TODO.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/testcontainer에 flyway로 DB seeding하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/injuk-commentor/c. Commentor TODO.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/testcontainer에 flyway로 DB seeding하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/injuk-commentor/c. Commentor TODO.md"
+                "file": "3.Resource/Zettelkasten/1.Fleeting/testcontainer에 flyway로 DB seeding하기.md"
               }
             }
           }
@@ -147,26 +147,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afe3e5b9e4ebccab",
+  "active": "2b0159283f950a3a",
   "lastOpenFiles": [
+    "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
+    "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
+    "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
+    "3.Resource/Zettelkasten/1.Fleeting/Cannot load driver class org.postgresql.Driver.md",
+    "3.Resource/Zettelkasten/1.Fleeting/API First Design이란?.md",
+    "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
+    "3.Resource/Zettelkasten/1.Fleeting/커서 기반 페이지네이션.md",
+    "1.Project/injuk-commentor/c. Commentor TODO.md",
     "3.Resource/Zettelkasten/1.Fleeting/testcontainer에 flyway로 DB seeding하기.md",
     "1.Project/injuk-commentor/a. Commentor란?.md",
     "1.Project/injuk-commentor/d. Commentor 회고.md",
-    "1.Project/injuk-commentor/c. Commentor TODO.md",
     "1.Project/injuk-commentor/b. Commentor 설계.md",
     "3.Resource/Zettelkasten/2.Literature/API First.md",
-    "3.Resource/Zettelkasten/1.Fleeting/API First Design이란?.md",
-    "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
     "4.Archive/Daily/Template.md",
     "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
     "3.Resource/Zettelkasten/2.Literature/SAGA 패턴.md",
     "3.Resource/Zettelkasten/2.Literature/책들.md",
     "3.Resource/Zettelkasten/2.Literature/CORS.md",
     "3.Resource/Zettelkasten/2.Literature/DB.md",
-    "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
-    "3.Resource/Zettelkasten/1.Fleeting/Cannot load driver class org.postgresql.Driver.md",
     "README.md",
     "4.Archive/Daily/2023-09-27.md",
     "4.Archive/Daily/2023-10-15.md",
@@ -174,7 +175,6 @@
     "3.Resource/Zettelkasten/2.Literature/Spring 트랜잭션 관리.md",
     "3.Resource/Zettelkasten/2.Literature/DispatcherServlet.md",
     "3.Resource/Etc/유용한 단축키들.md",
-    "3.Resource/IT/Dev/정적 팩토리 메소드 명명하기.md",
     "무제 파일.canvas",
     "2.Area/놀러갈 궁리",
     "1.Project/injuk-commentor",
