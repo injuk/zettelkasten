@@ -1,3 +1,5 @@
+#트러블슈팅 
+
 JooqConfiguration을 만들고 별 짓 다했는데, 알고보니 `spring-boot-starter-jooq` 를 사용중이면 
 그냥 대부분의 필요한 내용을 알아서 설정해준다고 함
 간혹 TransactionProvider나 TransactionAware 뭐시기를 설정하라는 글이 있는데, 그건 Spring Boot와 위 라이브러리 없이 깡 Spring을 쓰는 경우에 필요하다
