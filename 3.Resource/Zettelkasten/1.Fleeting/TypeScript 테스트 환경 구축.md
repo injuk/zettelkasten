@@ -4,3 +4,4 @@
 - `ts-jest config:init`
 - `package.json`의 `test` 스크립트를 `jest`로 수정
 - 이제 `jest`나 `npm run test`로 테스트 가능
+- 
