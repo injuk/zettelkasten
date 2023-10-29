@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
+                "file": "1.Project/injuk-commentor/d. Commentor 회고.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
+                "file": "1.Project/injuk-commentor/d. Commentor 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
+                "file": "1.Project/injuk-commentor/d. Commentor 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md"
+                "file": "1.Project/injuk-commentor/d. Commentor 회고.md"
               }
             }
           }
@@ -149,13 +149,17 @@
   },
   "active": "5373217ec78d8187",
   "lastOpenFiles": [
+    "1.Project/injuk-commentor/c. Commentor TODO.md",
+    "1.Project/injuk-commentor/b. Commentor 설계.md",
+    "1.Project/injuk-commentor/a. Commentor란?.md",
+    "1.Project/injuk-commentor/d. Commentor 회고.md",
     "3.Resource/IT/Java/Java, Spring과 DB.md",
     "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
+    "3.Resource/Zettelkasten/2.Literature/DB.md",
     "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
     "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
     "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
     "3.Resource/IT/DB",
-    "3.Resource/Zettelkasten/2.Literature/DB.md",
     "무제 파일.md",
     "3.Resource/IT/무제 파일.md",
     "3.Resource/Zettelkasten/2.Literature/Spring 트랜잭션 관리.md",
@@ -167,10 +171,6 @@
     "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
     "3.Resource/IT/Java/HikariProxyConnection.md",
     "3.Resource/IT/Java",
-    "1.Project/injuk-commentor/c. Commentor TODO.md",
-    "1.Project/injuk-commentor/a. Commentor란?.md",
-    "1.Project/injuk-commentor/b. Commentor 설계.md",
-    "1.Project/injuk-commentor/d. Commentor 회고.md",
     "3.Resource/Zettelkasten/2.Literature/API First.md",
     "4.Archive/Daily/Template.md",
     "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
