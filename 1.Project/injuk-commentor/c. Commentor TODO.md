@@ -28,11 +28,12 @@
 	- [x] 댓글 싫어요
 - [ ] 리팩토링하기
 	- [ ] 모든 의존성이 밖에서 안으로 향하는지 확인하기
-	- [ ] dataAccess는 테스트를 모두 작성한 후에 리팩토링하기
-	- [ ] dataAccessImpl 리팩토링하기
+	- [x] dataAccess는 테스트를 모두 작성한 후에 리팩토링하기
+	- [x] dataAccessImpl 리팩토링하기
 	- [x] 좋아요 / 싫어요 쪽 객체를 따로 빼기
 	- [ ] 에러가 전부 adapter에 있음! application으로 옮기기
 - [ ] 데이터 왕창 밀어넣고 DB 인덱싱하기
+- [ ] IdConverter는 object로 바꾸기
 - [x] 커서 안됨
 	- [x] order by 조건 수정하기! c.id도 넣어야 함
 - [ ] 커서 기준을 long + createdAt이 아니라 string + createdAt으로 바꾸자
