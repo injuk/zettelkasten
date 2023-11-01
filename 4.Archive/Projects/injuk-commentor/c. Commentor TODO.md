@@ -32,11 +32,11 @@
 	- [x] dataAccessImpl 리팩토링하기
 	- [x] 좋아요 / 싫어요 쪽 객체를 따로 빼기
 	- [x] 에러가 전부 adapter에 있음! application으로 옮기기
-- [ ] 데이터 왕창 밀어넣고 DB 인덱싱하기
+- [x] 데이터 왕창 밀어넣고 DB 인덱싱하기
 - [x] IdConverter는 object로 바꾸기
 - [x] 커서 안됨
 	- [x] order by 조건 수정하기! c.id도 넣어야 함
 - [x] ~~커서 기준을 long + createdAt이 아니라 string + createdAt으로 바꾸자~~
-	- [x] 단방향 암호화를 적용해서 필요 없어졌음
+	- 단방향 암호화를 적용해서 필요 없어졌음
 ---
 [[a. Commentor란?]]

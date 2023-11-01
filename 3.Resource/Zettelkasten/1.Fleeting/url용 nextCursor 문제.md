@@ -1,0 +1,3 @@
+- [예외](https://helloworld92.tistory.com/74)
+- [해결법](https://velog.io/@dohaeng0/base64-vs-base64-url-safe-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%98%88%EC%A0%9C)
+- 

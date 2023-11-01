@@ -32,7 +32,6 @@
 - `[POST] /comments/{id}/actions`: 임의의 댓글에 대한 LIKE / DISLIKE
 
 ### 테이블
-아직 인덱싱 안했지롱
 - 목록 조회를 기준으로, `org_id` / `project_id` / `domain` / `resource_id` / `created_at` 등을 인덱싱할 듯
 #### comments
 댓글 자체를 저장하기 위한 테이블
@@ -56,6 +55,11 @@ create table comments
   
     primary key (id)  
 );
+
+create index idx_1 on comments (parent_id);
+create index idx_2 on comments (project_id, domain, resource_id);
+create index idx_3 on comments (created_at, id);
+create index idx_4 on comments (updated_at, id);
 ```
 
 #### comment_interactions

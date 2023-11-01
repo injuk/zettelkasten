@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/injuk-commentor/c. Commentor TODO.md",
+                "file": "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6fb7e5db42a1fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/injuk-commentor/c. Commentor TODO.md",
+                "file": "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/injuk-commentor/c. Commentor TODO.md",
+                "file": "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/injuk-commentor/c. Commentor TODO.md"
+                "file": "4.Archive/Projects/injuk-commentor/a. Commentor란?.md"
               }
             }
           }
@@ -147,14 +160,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afe3e5b9e4ebccab",
+  "active": "d6fb7e5db42a1fb5",
   "lastOpenFiles": [
-    "1.Project/injuk-commentor/d. Commentor 회고.md",
+    "4.Archive/Projects/injuk-commentor/b. Commentor 설계.md",
+    "4.Archive/Projects/injuk-commentor/c. Commentor TODO.md",
+    "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
+    "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
+    "1.Project/bucket-bingo/001. BucketBingo.md",
+    "1.Project/bucket-bingo",
+    "3.Resource/Zettelkasten/1.Fleeting/url용 nextCursor 문제.md",
+    "4.Archive/Projects",
     "3.Resource/Zettelkasten/2.Literature/API First.md",
-    "1.Project/injuk-commentor/c. Commentor TODO.md",
-    "1.Project/injuk-commentor/b. Commentor 설계.md",
-    "1.Project/injuk-commentor/a. Commentor란?.md",
-    "1.Project/no title.md",
     "3.Resource/IT/Java/Java, Spring과 DB.md",
     "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
     "3.Resource/Zettelkasten/2.Literature/DB.md",
@@ -175,16 +191,12 @@
     "3.Resource/IT/Java",
     "4.Archive/Daily/Template.md",
     "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
-    "3.Resource/Zettelkasten/2.Literature/SAGA 패턴.md",
-    "3.Resource/Zettelkasten/2.Literature/책들.md",
     "무제 파일.canvas",
     "2.Area/놀러갈 궁리",
-    "1.Project/injuk-commentor",
+    "4.Archive/Projects/injuk-commentor",
     "1.Project/Commentor",
     "4.Archive/Obsidian",
     "무제 폴더",
-    "3.Resource/IT",
-    "3.Resource/IT/AWS",
-    "3.Resource/IT/Dev"
+    "3.Resource/IT"
   ]
 }
