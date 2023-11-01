@@ -36,7 +36,7 @@
 - [x] IdConverter는 object로 바꾸기
 - [x] 커서 안됨
 	- [x] order by 조건 수정하기! c.id도 넣어야 함
-- [ ] 커서 기준을 long + createdAt이 아니라 string + createdAt으로 바꾸자
-	- [ ] 커서 모델 만들고, 내보낼 때 아이디 컨버팅해주면 됨
+- [x] ~~커서 기준을 long + createdAt이 아니라 string + createdAt으로 바꾸자~~
+	- [x] 단방향 암호화를 적용해서 필요 없어졌음
 ---
 [[a. Commentor란?]]
