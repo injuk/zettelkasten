@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d6fb7e5db42a1fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
+                "file": "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
+                "file": "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Archive/Projects/injuk-commentor/a. Commentor란?.md"
+                "file": "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md"
               }
             }
           }
@@ -160,12 +147,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6fb7e5db42a1fb5",
+  "active": "5373217ec78d8187",
   "lastOpenFiles": [
-    "4.Archive/Projects/injuk-commentor/b. Commentor 설계.md",
-    "4.Archive/Projects/injuk-commentor/c. Commentor TODO.md",
+    "3.Resource/Zettelkasten/2.Literature/DB.md",
     "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
     "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
+    "4.Archive/Projects/injuk-commentor/b. Commentor 설계.md",
+    "4.Archive/Projects/injuk-commentor/c. Commentor TODO.md",
     "1.Project/bucket-bingo/001. BucketBingo.md",
     "1.Project/bucket-bingo",
     "3.Resource/Zettelkasten/1.Fleeting/url용 nextCursor 문제.md",
@@ -173,7 +161,6 @@
     "3.Resource/Zettelkasten/2.Literature/API First.md",
     "3.Resource/IT/Java/Java, Spring과 DB.md",
     "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
-    "3.Resource/Zettelkasten/2.Literature/DB.md",
     "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
     "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
     "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
