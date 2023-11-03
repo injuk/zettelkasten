@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/999. 백로그.md",
+                "file": "1.Project/bucket-bingo/활동 기록.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/999. 백로그.md",
+                "file": "1.Project/bucket-bingo/활동 기록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/999. 백로그.md",
+                "file": "1.Project/bucket-bingo/활동 기록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/999. 백로그.md"
+                "file": "1.Project/bucket-bingo/활동 기록.md"
               }
             }
           }
@@ -150,12 +150,12 @@
   },
   "active": "df9a1e0b54a6a365",
   "lastOpenFiles": [
-    "1.Project/bucket-bingo/001. BucketBingo.md",
-    "1.Project/bucket-bingo/활동 기록.md",
-    "4.Archive/Obsidian/Things 테마 관련.md",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/003. 설계.md",
     "1.Project/bucket-bingo/002. 기술 관련 결정 사항.md",
+    "1.Project/bucket-bingo/001. BucketBingo.md",
+    "1.Project/bucket-bingo/활동 기록.md",
+    "4.Archive/Obsidian/Things 테마 관련.md",
     "3.Resource/Zettelkasten/1.Fleeting/0.0.1 로 시작.md",
     "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
     "3.Resource/Zettelkasten/2.Literature/DB.md",
