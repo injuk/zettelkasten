@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md"
+                "file": "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md"
               }
             }
           }
@@ -148,8 +148,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df9a1e0b54a6a365",
+  "active": "afe3e5b9e4ebccab",
   "lastOpenFiles": [
+    "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
+    "3.Resource/IT/Java/Java, Spring과 DB.md",
+    "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
+    "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
+    "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
+    "3.Resource/Zettelkasten/1.Fleeting/API First Design이란?.md",
+    "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
+    "3.Resource/Zettelkasten/1.Fleeting/커서 기반 페이지네이션.md",
+    "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
+    "3.Resource/Zettelkasten/1.Fleeting/0.0.1 로 시작.md",
     "3.Resource/Zettelkasten/2.Literature/Spring 트랜잭션 관리.md",
     "1.Project/bucket-bingo/002. 기술 관련 결정 사항.md",
     "1.Project/bucket-bingo/001. BucketBingo.md",
@@ -157,7 +167,6 @@
     "1.Project/bucket-bingo/003. 설계.md",
     "1.Project/bucket-bingo/활동 기록.md",
     "4.Archive/Obsidian/Things 테마 관련.md",
-    "3.Resource/Zettelkasten/1.Fleeting/0.0.1 로 시작.md",
     "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
     "3.Resource/Zettelkasten/2.Literature/DB.md",
     "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
@@ -167,18 +176,9 @@
     "3.Resource/Zettelkasten/1.Fleeting/url용 nextCursor 문제.md",
     "4.Archive/Projects",
     "3.Resource/Zettelkasten/2.Literature/API First.md",
-    "3.Resource/IT/Java/Java, Spring과 DB.md",
-    "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
     "3.Resource/IT/DB",
     "무제 파일.md",
     "3.Resource/IT/무제 파일.md",
-    "3.Resource/Zettelkasten/1.Fleeting/TypeScript 테스트 환경 구축.md",
-    "3.Resource/Zettelkasten/1.Fleeting/커서 기반 페이지네이션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
-    "3.Resource/Zettelkasten/1.Fleeting/API First Design이란?.md",
     "3.Resource/IT/Java",
     "무제 파일.canvas",
     "2.Area/놀러갈 궁리",
