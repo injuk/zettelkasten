@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/003. 설계.md",
+                "file": "1.Project/bucket-bingo/004. api 설계(작업중).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/003. 설계.md",
+                "file": "1.Project/bucket-bingo/004. api 설계(작업중).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/003. 설계.md",
+                "file": "1.Project/bucket-bingo/004. api 설계(작업중).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/003. 설계.md"
+                "file": "1.Project/bucket-bingo/004. api 설계(작업중).md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "df9a1e0b54a6a365",
   "lastOpenFiles": [
+    "1.Project/bucket-bingo/003. 설계.md",
     "1.Project/bucket-bingo/004. api 설계(작업중).md",
     "1.Project/bucket-bingo/활동 기록.md",
-    "1.Project/bucket-bingo/003. 설계.md",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/002. 기술 관련 결정 사항.md",
     "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
