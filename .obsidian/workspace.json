@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/잘못알고 있던 JS 화살표 함수의 호이스팅.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/잘못알고 있던 JS 화살표 함수의 호이스팅.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/잘못알고 있던 JS 화살표 함수의 호이스팅.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/잘못알고 있던 JS 화살표 함수의 호이스팅.md"
+                "file": "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "df9a1e0b54a6a365",
   "lastOpenFiles": [
-    "3.Resource/Zettelkasten/3.Permanent/Web Server와 Web Application Server.md",
+    "3.Resource/Zettelkasten/1.Fleeting/url용 nextCursor 문제.md",
     "3.Resource/Zettelkasten/1.Fleeting/잘못알고 있던 JS 화살표 함수의 호이스팅.md",
+    "3.Resource/Zettelkasten/3.Permanent/Web Server와 Web Application Server.md",
     "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/활동 기록.md",
@@ -175,7 +176,6 @@
     "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
     "3.Resource/Zettelkasten/2.Literature/DB.md",
     "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
-    "4.Archive/Projects/injuk-commentor/b. Commentor 설계.md",
     "1.Project/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
