@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md",
+                "file": "1.Project/bucket-bingo/003. 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md",
+                "file": "1.Project/bucket-bingo/003. 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md",
+                "file": "1.Project/bucket-bingo/003. 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md"
+                "file": "1.Project/bucket-bingo/003. 설계.md"
               }
             }
           }
@@ -150,13 +150,13 @@
   },
   "active": "df9a1e0b54a6a365",
   "lastOpenFiles": [
+    "1.Project/bucket-bingo/활동 기록.md",
     "1.Project/bucket-bingo/003. 설계.md",
     "1.Project/bucket-bingo/002. 기술 관련 결정 사항.md",
     "1.Project/bucket-bingo/001. BucketBingo.md",
     "1.Project/bucket-bingo/005. 화면설계.md",
     "1.Project/bucket-bingo/004. api 설계(작업중).md",
     "1.Project/bucket-bingo/999. 백로그.md",
-    "1.Project/bucket-bingo/활동 기록.md",
     "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
     "3.Resource/Zettelkasten/1.Fleeting/url용 nextCursor 문제.md",
     "3.Resource/Zettelkasten/1.Fleeting/잘못알고 있던 JS 화살표 함수의 호이스팅.md",
