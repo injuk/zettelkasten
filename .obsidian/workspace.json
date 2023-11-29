@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
+                "file": "1.Project/bucket-bingo/003. API 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
+                "file": "1.Project/bucket-bingo/003. API 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
+                "file": "1.Project/bucket-bingo/003. API 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/IT/Java/Spring은 왜 써야할까?.md"
+                "file": "1.Project/bucket-bingo/003. API 설계.md"
               }
             }
           }
@@ -149,10 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afe3e5b9e4ebccab",
+  "active": "df9a1e0b54a6a365",
   "lastOpenFiles": [
-    "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
     "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
+    "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
     "3.Resource/IT/Java/공변성과 반공변성이란?.md",
     "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
     "README.md",
