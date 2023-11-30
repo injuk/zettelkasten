@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/003. API 설계.md",
+                "file": "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/003. API 설계.md",
+                "file": "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/003. API 설계.md",
+                "file": "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/003. API 설계.md"
+                "file": "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md"
               }
             }
           }
@@ -151,6 +151,9 @@
   },
   "active": "df9a1e0b54a6a365",
   "lastOpenFiles": [
+    "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
+    "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
+    "1.Project/bucket-bingo/003. API 설계.md",
     "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
     "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
     "3.Resource/IT/Java/공변성과 반공변성이란?.md",
@@ -158,7 +161,6 @@
     "README.md",
     "4.Archive/Daily/2023-09-27.md",
     "1.Project/bucket-bingo/활동 기록.md",
-    "1.Project/bucket-bingo/003. API 설계.md",
     "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
     "1.Project/bucket-bingo/006. SP001.md",
     "1.Project/bucket-bingo/001. BucketBingo.md",
@@ -175,8 +177,6 @@
     "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
     "3.Resource/Zettelkasten/1.Fleeting/API First Design이란?.md",
     "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/커서 기반 페이지네이션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/0.0.1 로 시작.md",
     "1.Project/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
