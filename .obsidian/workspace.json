@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df9a1e0b54a6a365",
+            "id": "92cc6bea725f42bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
+                "file": "4.Archive/Daily/2023-12-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
+                "file": "4.Archive/Daily/2023-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
+                "file": "4.Archive/Daily/2023-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md"
+                "file": "4.Archive/Daily/2023-12-01.md"
               }
             }
           }
@@ -149,10 +149,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df9a1e0b54a6a365",
+  "active": "92cc6bea725f42bb",
   "lastOpenFiles": [
-    "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
+    "3.Resource/Zettelkasten/1.Fleeting/Java build 안됨(java.lang.UnsupportedClassVersionError).md",
+    "4.Archive/Daily/2023-12-01.md",
     "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
+    "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
     "1.Project/bucket-bingo/003. API 설계.md",
     "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
     "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
@@ -175,8 +177,6 @@
     "3.Resource/IT/Java/Java, Spring과 DB.md",
     "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
     "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/API First Design이란?.md",
-    "3.Resource/Zettelkasten/1.Fleeting/트랜잭션.md",
     "1.Project/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
