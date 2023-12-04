@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Archive/Daily/2023-12-01.md",
+                "file": "1.Project/zipster/b. Zipster 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#토이프로젝트",
+                "query": "tag:#commentor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Archive/Daily/2023-12-01.md",
+                "file": "1.Project/zipster/b. Zipster 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Archive/Daily/2023-12-01.md",
+                "file": "1.Project/zipster/b. Zipster 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Archive/Daily/2023-12-01.md"
+                "file": "1.Project/zipster/b. Zipster 설계.md"
               }
             }
           }
@@ -151,8 +151,16 @@
   },
   "active": "92cc6bea725f42bb",
   "lastOpenFiles": [
-    "3.Resource/Zettelkasten/1.Fleeting/Java build 안됨(java.lang.UnsupportedClassVersionError).md",
+    "1.Project/zipster/a. Zipster란?.md",
+    "1.Project/zipster/b. Zipster 설계.md",
+    "4.Archive/Projects/injuk-commentor/c. Commentor TODO.md",
+    "4.Archive/Projects/injuk-commentor/b. Commentor 설계.md",
+    "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
+    "1.Project/bucket-bingo/001. BucketBingo.md",
+    "1.Project/bucket-bingo/002. 모델 설계.md",
     "4.Archive/Daily/2023-12-01.md",
+    "1.Project/zipster",
+    "3.Resource/Zettelkasten/1.Fleeting/Java build 안됨(java.lang.UnsupportedClassVersionError).md",
     "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
     "1.Project/bucket-bingo/003. API 설계.md",
@@ -165,18 +173,11 @@
     "1.Project/bucket-bingo/활동 기록.md",
     "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
     "1.Project/bucket-bingo/006. SP001.md",
-    "1.Project/bucket-bingo/001. BucketBingo.md",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/004. 화면설계.md",
-    "1.Project/bucket-bingo/002. 모델 설계.md",
     "3.Resource/Zettelkasten/1.Fleeting/url용 nextCursor 문제.md",
     "3.Resource/Zettelkasten/1.Fleeting/잘못알고 있던 JS 화살표 함수의 호이스팅.md",
     "3.Resource/Zettelkasten/3.Permanent/Web Server와 Web Application Server.md",
-    "3.Resource/Zettelkasten/3.Permanent/Kotlin TransactionTemplate 예제.md",
-    "3.Resource/Zettelkasten/1.Fleeting/Spring 트랜잭션.md",
-    "3.Resource/IT/Java/Java, Spring과 DB.md",
-    "3.Resource/Zettelkasten/1.Fleeting/JDBC는 왜 만들어졌을까.md",
-    "3.Resource/Zettelkasten/1.Fleeting/jooq 트랜잭션.md",
     "1.Project/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
@@ -186,7 +187,6 @@
     "4.Archive/Projects/injuk-commentor",
     "1.Project/Commentor",
     "4.Archive/Obsidian",
-    "무제 폴더",
-    "3.Resource/IT"
+    "무제 폴더"
   ]
 }
