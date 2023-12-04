@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/zipster/b. Zipster 설계.md",
+                "file": "1.Project/zipster/a. Zipster란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/zipster/b. Zipster 설계.md",
+                "file": "1.Project/zipster/a. Zipster란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/zipster/b. Zipster 설계.md",
+                "file": "1.Project/zipster/a. Zipster란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/zipster/b. Zipster 설계.md"
+                "file": "1.Project/zipster/a. Zipster란?.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "92cc6bea725f42bb",
   "lastOpenFiles": [
-    "1.Project/zipster/a. Zipster란?.md",
     "1.Project/zipster/b. Zipster 설계.md",
+    "1.Project/zipster/a. Zipster란?.md",
     "4.Archive/Projects/injuk-commentor/c. Commentor TODO.md",
     "4.Archive/Projects/injuk-commentor/b. Commentor 설계.md",
     "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
