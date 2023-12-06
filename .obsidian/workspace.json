@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md",
+                "file": "2.Area/놀러갈 궁리/2023 FUK.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md",
+                "file": "2.Area/놀러갈 궁리/2023 FUK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md",
+                "file": "2.Area/놀러갈 궁리/2023 FUK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md"
+                "file": "2.Area/놀러갈 궁리/2023 FUK.md"
               }
             }
           }
@@ -151,15 +151,18 @@
   },
   "active": "92cc6bea725f42bb",
   "lastOpenFiles": [
-    "1.Project/zipster/b. Zipster 설계.md",
-    "1.Project/zipster/a. Zipster란?.md",
+    "3.Resource/Zettelkasten/1.Fleeting/객제지향 원칙은 왜 준수해야 할까?.md",
+    "2.Area/놀러갈 궁리/2023 FUK.md",
+    "1.Project/injuk-zipster/b. Zipster 설계.md",
+    "1.Project/bucket-bingo/활동 기록.md",
+    "1.Project/injuk-zipster/a. Zipster란?.md",
     "4.Archive/Projects/injuk-commentor/c. Commentor TODO.md",
     "4.Archive/Projects/injuk-commentor/b. Commentor 설계.md",
     "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
     "1.Project/bucket-bingo/001. BucketBingo.md",
     "1.Project/bucket-bingo/002. 모델 설계.md",
     "4.Archive/Daily/2023-12-01.md",
-    "1.Project/zipster",
+    "1.Project/injuk-zipster",
     "3.Resource/Zettelkasten/1.Fleeting/Java build 안됨(java.lang.UnsupportedClassVersionError).md",
     "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
@@ -170,14 +173,11 @@
     "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
     "README.md",
     "4.Archive/Daily/2023-09-27.md",
-    "1.Project/bucket-bingo/활동 기록.md",
     "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
     "1.Project/bucket-bingo/006. SP001.md",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/004. 화면설계.md",
     "3.Resource/Zettelkasten/1.Fleeting/url용 nextCursor 문제.md",
-    "3.Resource/Zettelkasten/1.Fleeting/잘못알고 있던 JS 화살표 함수의 호이스팅.md",
-    "3.Resource/Zettelkasten/3.Permanent/Web Server와 Web Application Server.md",
     "1.Project/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
