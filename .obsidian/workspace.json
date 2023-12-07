@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2023 FUK.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/객제지향 원칙은 왜 준수해야 할까?.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2023 FUK.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/객제지향 원칙은 왜 준수해야 할까?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2023 FUK.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/객제지향 원칙은 왜 준수해야 할까?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2023 FUK.md"
+                "file": "3.Resource/Zettelkasten/1.Fleeting/객제지향 원칙은 왜 준수해야 할까?.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "92cc6bea725f42bb",
   "lastOpenFiles": [
+    "3.Resource/Zettelkasten/1.Fleeting/커서 기반 페이지네이션.md",
     "3.Resource/Zettelkasten/1.Fleeting/객제지향 원칙은 왜 준수해야 할까?.md",
     "2.Area/놀러갈 궁리/2023 FUK.md",
     "1.Project/injuk-zipster/b. Zipster 설계.md",
@@ -177,7 +178,6 @@
     "1.Project/bucket-bingo/006. SP001.md",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/004. 화면설계.md",
-    "3.Resource/Zettelkasten/1.Fleeting/url용 nextCursor 문제.md",
     "1.Project/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
