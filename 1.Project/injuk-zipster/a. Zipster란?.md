@@ -5,11 +5,12 @@
 #### 목표
 - [ ] `WebFlux` 와 `Coroutine`을 활용한 애플리케이션 구현해보기
 - [ ] `LocalStack` 을 활용한 통합 테스트 환경 구축하기
-- [ ] 단일 파일에 대한 다운로드 기능 구현하기
-- [ ] 다수의 파일에 대한 zip 다운로드 기능 구현하기
+- [-] 단일 파일에 대한 다운로드 기능 구현하기
+	- 그냥 단건이면 zip 안하고 내려주기로 함
+- [ ] 다수의 파일에 대한 zip 다운로드 기능 구현하기(핵심)
 #### 기간
 넉넉히 `2023-12-01 ~ 2023-01-31`로 잡음
 #### 기술 스택
-- Kotlin + Spring Boot + WebFlux
+- Kotlin Coroutine + Spring Boot + WebFlux
 - LocalStack(Docker)
 - 가능한 경우, opeAPIGenerator(open api spec 3.0)
