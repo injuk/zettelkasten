@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md",
+                "file": "1.Project/injuk-zipster/c. Zipster API.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md",
+                "file": "1.Project/injuk-zipster/c. Zipster API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md",
+                "file": "1.Project/injuk-zipster/c. Zipster API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md"
+                "file": "1.Project/injuk-zipster/c. Zipster API.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "92cc6bea725f42bb",
   "lastOpenFiles": [
-    "1.Project/bucket-bingo/활동 기록.md",
     "1.Project/injuk-zipster/b. Zipster 설계.md",
+    "1.Project/bucket-bingo/활동 기록.md",
     "1.Project/injuk-zipster/a. Zipster란?.md",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/002. 모델 설계.md",
