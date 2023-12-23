@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/injuk-zipster/c. Zipster API.md",
+                "file": "2.Area/귀/관리하자!.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/injuk-zipster/c. Zipster API.md",
+                "file": "2.Area/귀/관리하자!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/injuk-zipster/c. Zipster API.md",
+                "file": "2.Area/귀/관리하자!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/injuk-zipster/c. Zipster API.md"
+                "file": "2.Area/귀/관리하자!.md"
               }
             }
           }
@@ -151,6 +151,9 @@
   },
   "active": "92cc6bea725f42bb",
   "lastOpenFiles": [
+    "1.Project/injuk-zipster/c. Zipster API.md",
+    "2.Area/귀/관리하자!.md",
+    "2.Area/귀",
     "1.Project/injuk-zipster/b. Zipster 설계.md",
     "1.Project/bucket-bingo/활동 기록.md",
     "1.Project/injuk-zipster/a. Zipster란?.md",
@@ -159,7 +162,6 @@
     "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
     "1.Project/bucket-bingo/006. SP001.md",
     "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
-    "1.Project/injuk-zipster/c. Zipster API.md",
     "1.Project/bucket-bingo/003. API 설계.md",
     "3.Resource/Zettelkasten/1.Fleeting/코틀린 코루틴.md",
     "3.Resource/Zettelkasten/1.Fleeting/커서 기반 페이지네이션.md",
@@ -177,7 +179,6 @@
     "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
     "3.Resource/IT/Java/공변성과 반공변성이란?.md",
     "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
-    "README.md",
     "1.Project/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
@@ -186,7 +187,6 @@
     "2.Area/놀러갈 궁리",
     "4.Archive/Projects/injuk-commentor",
     "1.Project/Commentor",
-    "4.Archive/Obsidian",
-    "무제 폴더"
+    "4.Archive/Obsidian"
   ]
 }
