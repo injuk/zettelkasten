@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/귀/관리하자!.md",
+                "file": "1.Project/injuk-zipster/a. Zipster란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/귀/관리하자!.md",
+                "file": "1.Project/injuk-zipster/a. Zipster란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/귀/관리하자!.md",
+                "file": "1.Project/injuk-zipster/a. Zipster란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/귀/관리하자!.md"
+                "file": "1.Project/injuk-zipster/a. Zipster란?.md"
               }
             }
           }
@@ -151,12 +151,12 @@
   },
   "active": "92cc6bea725f42bb",
   "lastOpenFiles": [
-    "1.Project/injuk-zipster/c. Zipster API.md",
-    "2.Area/귀/관리하자!.md",
-    "2.Area/귀",
     "1.Project/injuk-zipster/b. Zipster 설계.md",
-    "1.Project/bucket-bingo/활동 기록.md",
     "1.Project/injuk-zipster/a. Zipster란?.md",
+    "2.Area/귀/관리하자!.md",
+    "1.Project/injuk-zipster/c. Zipster API.md",
+    "2.Area/귀",
+    "1.Project/bucket-bingo/활동 기록.md",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/002. 모델 설계.md",
     "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
