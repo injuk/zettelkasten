@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md",
+                "file": "2.Area/귀/관리하자!.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md",
+                "file": "2.Area/귀/관리하자!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md",
+                "file": "2.Area/귀/관리하자!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md"
+                "file": "2.Area/귀/관리하자!.md"
               }
             }
           }
@@ -149,7 +149,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afe3e5b9e4ebccab",
+  "active": "92cc6bea725f42bb",
   "lastOpenFiles": [
     "1.Project/injuk-zipster/a. Zipster란?.md",
     "1.Project/injuk-zipster/b. Zipster 설계.md",
