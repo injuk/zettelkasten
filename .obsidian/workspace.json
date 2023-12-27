@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
+                "file": "1.Project/bucket-bingo/003. API 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
+                "file": "1.Project/bucket-bingo/003. API 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
+                "file": "1.Project/bucket-bingo/003. API 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md"
+                "file": "1.Project/bucket-bingo/003. API 설계.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   },
   "active": "92cc6bea725f42bb",
   "lastOpenFiles": [
+    "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
     "1.Project/bucket-bingo/003. API 설계.md",
     "1.Project/bucket-bingo/004. 화면설계.md",
-    "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
     "1.Project/bucket-bingo/006. SP001.md",
     "1.Project/bucket-bingo/002. 모델 설계.md",
     "1.Project/bucket-bingo/999. 백로그.md",
