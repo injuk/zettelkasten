@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92cc6bea725f42bb",
+            "id": "713e034a9d0d6722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md",
+                "file": "2.Area/영화/2023 결산.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md",
+                "file": "2.Area/영화/2023 결산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md",
+                "file": "2.Area/영화/2023 결산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/활동 기록.md"
+                "file": "2.Area/영화/2023 결산.md"
               }
             }
           }
@@ -149,10 +149,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92cc6bea725f42bb",
+  "active": "713e034a9d0d6722",
   "lastOpenFiles": [
-    "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/활동 기록.md",
+    "2.Area/영화/2023 결산.md",
+    "2.Area/영화",
+    "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/006. SP001.md",
     "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
     "1.Project/bucket-bingo/003. API 설계.md",
@@ -178,7 +180,6 @@
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
     "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
     "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
-    "3.Resource/IT/Java/공변성과 반공변성이란?.md",
     "1.Project/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
@@ -186,7 +187,6 @@
     "무제 파일.canvas",
     "2.Area/놀러갈 궁리",
     "4.Archive/Projects/injuk-commentor",
-    "1.Project/Commentor",
-    "4.Archive/Obsidian"
+    "1.Project/Commentor"
   ]
 }
