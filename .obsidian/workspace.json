@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/영화/2023 결산.md",
+                "file": "1.Project/bucket-bingo/999. 백로그.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/영화/2023 결산.md",
+                "file": "1.Project/bucket-bingo/999. 백로그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/영화/2023 결산.md",
+                "file": "1.Project/bucket-bingo/999. 백로그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/영화/2023 결산.md"
+                "file": "1.Project/bucket-bingo/999. 백로그.md"
               }
             }
           }
@@ -149,10 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "713e034a9d0d6722",
+  "active": "afe3e5b9e4ebccab",
   "lastOpenFiles": [
-    "1.Project/bucket-bingo/활동 기록.md",
     "2.Area/영화/2023 결산.md",
+    "1.Project/bucket-bingo/활동 기록.md",
     "2.Area/영화",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/006. SP001.md",
