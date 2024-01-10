@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/999. 백로그.md",
+                "file": "1.Project/bucket-bingo/활동 기록.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/999. 백로그.md",
+                "file": "1.Project/bucket-bingo/활동 기록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/999. 백로그.md",
+                "file": "1.Project/bucket-bingo/활동 기록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/999. 백로그.md"
+                "file": "1.Project/bucket-bingo/활동 기록.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "713e034a9d0d6722",
   "lastOpenFiles": [
-    "1.Project/bucket-bingo/활동 기록.md",
     "1.Project/bucket-bingo/999. 백로그.md",
+    "1.Project/bucket-bingo/활동 기록.md",
     "2.Area/귀/관리하자!.md",
     "2.Area/영화/2023 결산.md",
     "2.Area/영화",
