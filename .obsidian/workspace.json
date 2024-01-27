@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/007. SP002.md",
+                "file": "1.Project/bucket-bingo/999. 백로그.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/007. SP002.md",
+                "file": "1.Project/bucket-bingo/999. 백로그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/007. SP002.md",
+                "file": "1.Project/bucket-bingo/999. 백로그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/007. SP002.md"
+                "file": "1.Project/bucket-bingo/999. 백로그.md"
               }
             }
           }
@@ -149,10 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afe3e5b9e4ebccab",
+  "active": "713e034a9d0d6722",
   "lastOpenFiles": [
-    "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/007. SP002.md",
+    "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
     "1.Project/bucket-bingo/003. API 설계.md",
     "1.Project/bucket-bingo/001. BucketBingo.md",
