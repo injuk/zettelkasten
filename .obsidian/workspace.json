@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2023 FUK.md",
+                "file": "1.Project/bucket-bingo/002. 모델 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2023 FUK.md",
+                "file": "1.Project/bucket-bingo/002. 모델 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2023 FUK.md",
+                "file": "1.Project/bucket-bingo/002. 모델 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2023 FUK.md"
+                "file": "1.Project/bucket-bingo/002. 모델 설계.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "713e034a9d0d6722",
   "lastOpenFiles": [
-    "1.Project/bucket-bingo/999. 백로그.md",
     "2.Area/놀러갈 궁리/2023 FUK.md",
+    "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/007. SP002.md",
     "1.Project/bucket-bingo/활동 기록.md",
     "1.Project/bucket-bingo/006. SP001.md",
