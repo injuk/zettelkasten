@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "713e034a9d0d6722",
+            "id": "0b9603dd52773d45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/mysql docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/mysql docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/mysql docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/injuk-zipster/b. Zipster 설계.md"
+                "file": "3.Resource/Zettelkasten/1.Fleeting/mysql docker.md"
               }
             }
           }
@@ -149,10 +149,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "713e034a9d0d6722",
+  "active": "0b9603dd52773d45",
   "lastOpenFiles": [
-    "1.Project/injuk-zipster/a. Zipster란?.md",
     "1.Project/injuk-zipster/b. Zipster 설계.md",
+    "3.Resource/Zettelkasten/1.Fleeting/mysql docker.md",
+    "1.Project/injuk-zipster/a. Zipster란?.md",
     "1.Project/injuk-zipster/c. Zipster API.md",
     "1.Project/bucket-bingo/002. 모델 설계.md",
     "2.Area/놀러갈 궁리/2023 FUK.md",
@@ -179,7 +180,6 @@
     "1.Project/injuk-zipster",
     "3.Resource/Zettelkasten/1.Fleeting/Java build 안됨(java.lang.UnsupportedClassVersionError).md",
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
-    "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
     "1.Project/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
