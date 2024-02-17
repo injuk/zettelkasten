@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Archive/Daily/2023-12-01.md",
+                "file": "1.Project/bucket-bingo/001. BucketBingo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Archive/Daily/2023-12-01.md",
+                "file": "1.Project/bucket-bingo/001. BucketBingo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Archive/Daily/2023-12-01.md",
+                "file": "1.Project/bucket-bingo/001. BucketBingo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Archive/Daily/2023-12-01.md"
+                "file": "1.Project/bucket-bingo/001. BucketBingo.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "0b9603dd52773d45",
   "lastOpenFiles": [
+    "4.Archive/Daily/2023-12-01.md",
     "4.Archive/Projects/injuk-zipster/a. Zipster란?.md",
     "1.Project/bucket-bingo/006. SP001.md",
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
@@ -177,7 +178,6 @@
     "4.Archive/Projects/injuk-commentor/c. Commentor TODO.md",
     "4.Archive/Projects/injuk-commentor/b. Commentor 설계.md",
     "4.Archive/Projects/injuk-commentor/a. Commentor란?.md",
-    "4.Archive/Daily/2023-12-01.md",
     "4.Archive/Projects/injuk-zipster",
     "3.Resource/Zettelkasten/1.Fleeting/Java build 안됨(java.lang.UnsupportedClassVersionError).md",
     "1.Project/bucket-bingo",
