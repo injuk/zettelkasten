@@ -1,0 +1,1 @@
+cloud front에서, 해당 serverless로 배포된 리소스에 대응하는 cf 스택을 제거해준다.
