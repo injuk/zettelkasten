@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Archive/Projects/injuk-zipster/b. Zipster 설계.md",
+                "file": "1.Project/bucket-bingo/002. 모델 설계.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f90815ab595cde1c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.Project/bucket-bingo/002. 모델 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.Project/bucket-bingo/002. 모델 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.Project/bucket-bingo/002. 모델 설계.md"
+              }
             }
           }
         ],
@@ -154,7 +149,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f90815ab595cde1c",
+  "active": "0b9603dd52773d45",
   "lastOpenFiles": [
     "4.Archive/Projects/injuk-zipster/b. Zipster 설계.md",
     "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
