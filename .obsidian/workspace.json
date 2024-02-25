@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-auth/001. OAuth2.0.md",
+                "file": "1.Project/bucket-auth/000. SpringSecurity 스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-auth/001. OAuth2.0.md",
+                "file": "1.Project/bucket-auth/000. SpringSecurity 스터디.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-auth/001. OAuth2.0.md",
+                "file": "1.Project/bucket-auth/000. SpringSecurity 스터디.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-auth/001. OAuth2.0.md"
+                "file": "1.Project/bucket-auth/000. SpringSecurity 스터디.md"
               }
             }
           }
@@ -152,8 +151,9 @@
   },
   "active": "0b9603dd52773d45",
   "lastOpenFiles": [
-    "4.Archive/Projects/bucket-bingo/001. BucketBingo.md",
     "1.Project/bucket-auth/001. OAuth2.0.md",
+    "1.Project/bucket-auth/000. SpringSecurity 스터디.md",
+    "4.Archive/Projects/bucket-bingo/001. BucketBingo.md",
     "1.Project/bucket-auth",
     "4.Archive/Projects/bucket-bingo/007. SP002.md",
     "4.Archive/Projects/bucket-bingo/006. SP001.md",
@@ -180,7 +180,6 @@
     "2.Area/영화",
     "2.Area/귀",
     "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
-    "3.Resource/Zettelkasten/1.Fleeting/코틀린 코루틴.md",
     "4.Archive/Projects/injuk-zipster",
     "4.Archive/Projects/bucket-bingo",
     "4.Archive/Projects",
