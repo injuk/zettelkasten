@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
+                "file": "1.Project/bucket-auth/001. OAuth2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
+                "file": "1.Project/bucket-auth/001. OAuth2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
+                "file": "1.Project/bucket-auth/001. OAuth2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md"
+                "file": "1.Project/bucket-auth/001. OAuth2.0.md"
               }
             }
           }
@@ -149,44 +150,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afe3e5b9e4ebccab",
+  "active": "0b9603dd52773d45",
   "lastOpenFiles": [
+    "4.Archive/Projects/bucket-bingo/001. BucketBingo.md",
+    "1.Project/bucket-auth/001. OAuth2.0.md",
+    "1.Project/bucket-auth",
+    "4.Archive/Projects/bucket-bingo/007. SP002.md",
+    "4.Archive/Projects/bucket-bingo/006. SP001.md",
+    "4.Archive/Projects/bucket-bingo/999. 백로그.md",
+    "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
     "3.Resource/IT/Java/Java, Spring과 DB.md",
     "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
-    "1.Project/bucket-bingo/002. 모델 설계.md",
+    "4.Archive/Projects/bucket-bingo/002. 모델 설계.md",
     "4.Archive/Projects/injuk-zipster/b. Zipster 설계.md",
     "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
     "4.Archive/Projects/injuk-zipster/c. Zipster API.md",
     "4.Archive/Projects/injuk-zipster/a. Zipster란?.md",
     "3.Resource/Zettelkasten/1.Fleeting/serverless framework로 배포된 리소스 롤백하기.md",
-    "1.Project/bucket-bingo/001. BucketBingo.md",
     "4.Archive/Daily/2023-12-01.md",
-    "1.Project/bucket-bingo/006. SP001.md",
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
-    "1.Project/bucket-bingo/003. API 설계.md",
+    "4.Archive/Projects/bucket-bingo/003. API 설계.md",
     "3.Resource/IT/Dev/mysql docker 명령어.md",
     "2.Area/놀러갈 궁리/2023 FUK.md",
-    "1.Project/bucket-bingo/999. 백로그.md",
-    "1.Project/bucket-bingo/007. SP002.md",
-    "1.Project/bucket-bingo/활동 기록.md",
-    "1.Project/bucket-bingo/005. 기술 관련 결정 사항.md",
-    "1.Project/bucket-bingo/004. 화면설계.md",
+    "4.Archive/Projects/bucket-bingo/활동 기록.md",
+    "4.Archive/Projects/bucket-bingo/005. 기술 관련 결정 사항.md",
+    "4.Archive/Projects/bucket-bingo/004. 화면설계.md",
     "2.Area/영화/2023 결산.md",
     "2.Area/귀/관리하자!.md",
     "2.Area/영화",
     "2.Area/귀",
     "3.Resource/Zettelkasten/2.Literature/mongo db docker-compose.md",
     "3.Resource/Zettelkasten/1.Fleeting/코틀린 코루틴.md",
-    "3.Resource/Zettelkasten/1.Fleeting/커서 기반 페이지네이션.md",
-    "3.Resource/Zettelkasten/1.Fleeting/객제지향 원칙은 왜 준수해야 할까?.md",
     "4.Archive/Projects/injuk-zipster",
-    "1.Project/bucket-bingo",
+    "4.Archive/Projects/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
     "3.Resource/IT/Java",
     "무제 파일.canvas",
     "2.Area/놀러갈 궁리",
-    "4.Archive/Projects/injuk-commentor",
-    "1.Project/Commentor"
+    "4.Archive/Projects/injuk-commentor"
   ]
 }
