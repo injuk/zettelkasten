@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-auth/000. SpringSecurity 스터디.md",
+                "file": "1.Project/bucket-auth/001. OAuth2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-auth/000. SpringSecurity 스터디.md",
+                "file": "1.Project/bucket-auth/001. OAuth2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-auth/000. SpringSecurity 스터디.md",
+                "file": "1.Project/bucket-auth/001. OAuth2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-auth/000. SpringSecurity 스터디.md"
+                "file": "1.Project/bucket-auth/001. OAuth2.0.md"
               }
             }
           }
@@ -149,10 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b9603dd52773d45",
+  "active": "afe3e5b9e4ebccab",
   "lastOpenFiles": [
-    "1.Project/bucket-auth/001. OAuth2.0.md",
     "1.Project/bucket-auth/000. SpringSecurity 스터디.md",
+    "1.Project/bucket-auth/001. OAuth2.0.md",
     "4.Archive/Projects/bucket-bingo/001. BucketBingo.md",
     "1.Project/bucket-auth",
     "4.Archive/Projects/bucket-bingo/007. SP002.md",
