@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "1.Project/bucket-bingo/SP002/001. SP002.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "1.Project/bucket-bingo/SP002/001. SP002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "1.Project/bucket-bingo/SP002/001. SP002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md"
+                "file": "1.Project/bucket-bingo/SP002/001. SP002.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "0b9603dd52773d45",
   "lastOpenFiles": [
-    "1.Project/mJis-pinteree/000. 계획.md",
     "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+    "1.Project/mJis-pinteree/000. 계획.md",
     "1.Project/bucket-bingo/SP002/001. SP002.md",
     "1.Project/bucket-bingo/SP002",
     "1.Project/bucket-bingo/SP001/001. BucketBingo.md",
