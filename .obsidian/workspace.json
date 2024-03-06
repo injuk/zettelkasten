@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b9603dd52773d45",
+            "id": "2a55777b32966720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md"
+                "file": "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md"
               }
             }
           }
@@ -149,11 +149,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b9603dd52773d45",
+  "active": "2a55777b32966720",
   "lastOpenFiles": [
+    "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+    "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/bucket-bingo/SP002/001. SP002.md",
-    "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
     "1.Project/mJis-pinteree/000. 계획.md",
     "1.Project/bucket-bingo/SP002",
     "1.Project/bucket-bingo/SP001/001. BucketBingo.md",
@@ -168,7 +169,6 @@
     "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
     "1.Project/bucket-bingo/SP001/002. 모델 설계.md",
     "4.Archive/Projects/injuk-zipster/b. Zipster 설계.md",
-    "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
     "4.Archive/Projects/injuk-zipster/c. Zipster API.md",
     "4.Archive/Projects/injuk-zipster/a. Zipster란?.md",
     "3.Resource/Zettelkasten/1.Fleeting/serverless framework로 배포된 리소스 롤백하기.md",
