@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "1.Project/bucket-bingo/SP002/001. SP002.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "1.Project/bucket-bingo/SP002/001. SP002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "1.Project/bucket-bingo/SP002/001. SP002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md"
+                "file": "1.Project/bucket-bingo/SP002/001. SP002.md"
               }
             }
           }
@@ -151,10 +151,10 @@
   },
   "active": "2a55777b32966720",
   "lastOpenFiles": [
+    "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
     "2.Area/영화/2023 결산.md",
     "2.Area/영화/2022 결산.md",
     "1.Project/bucket-bingo/SP002/001. SP002.md",
-    "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
     "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md",
     "1.Project/bucket-bingo/999. 백로그.md",
     "1.Project/mJis-pinteree/000. 계획.md",
