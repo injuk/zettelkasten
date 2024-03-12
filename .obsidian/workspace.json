@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/001. SP002.md",
+                "file": "4.Archive/Projects/bucket-bingo/SP002/001. SP002.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/001. SP002.md",
+                "file": "4.Archive/Projects/bucket-bingo/SP002/001. SP002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/001. SP002.md",
+                "file": "4.Archive/Projects/bucket-bingo/SP002/001. SP002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/bucket-bingo/SP002/001. SP002.md"
+                "file": "4.Archive/Projects/bucket-bingo/SP002/001. SP002.md"
               }
             }
           }
@@ -149,42 +149,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a55777b32966720",
+  "active": "afe3e5b9e4ebccab",
   "lastOpenFiles": [
-    "1.Project/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+    "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
     "2.Area/영화/2023 결산.md",
     "2.Area/영화/2022 결산.md",
-    "1.Project/bucket-bingo/SP002/001. SP002.md",
+    "4.Archive/Projects/bucket-bingo/SP002/001. SP002.md",
     "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md",
-    "1.Project/bucket-bingo/999. 백로그.md",
+    "4.Archive/Projects/bucket-bingo/999. 백로그.md",
     "1.Project/mJis-pinteree/000. 계획.md",
-    "1.Project/bucket-bingo/SP002",
-    "1.Project/bucket-bingo/SP001/001. BucketBingo.md",
-    "1.Project/bucket-bingo/SP001/006. SP001.md",
-    "1.Project/bucket-bingo/SP001/005. 기술 관련 결정 사항.md",
-    "1.Project/bucket-bingo/SP001",
+    "4.Archive/Projects/bucket-bingo/SP002",
+    "4.Archive/Projects/bucket-bingo/SP001/001. BucketBingo.md",
+    "4.Archive/Projects/bucket-bingo/SP001/006. SP001.md",
+    "4.Archive/Projects/bucket-bingo/SP001/005. 기술 관련 결정 사항.md",
+    "4.Archive/Projects/bucket-bingo/SP001",
     "3.Resource/Zettelkasten/1.Fleeting/SpringSecurity 스터디.md",
     "1.Project/mJis-pinteree",
     "1.Project/bucket-auth",
     "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
     "3.Resource/IT/Java/Java, Spring과 DB.md",
     "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
-    "1.Project/bucket-bingo/SP001/002. 모델 설계.md",
+    "4.Archive/Projects/bucket-bingo/SP001/002. 모델 설계.md",
     "4.Archive/Projects/injuk-zipster/b. Zipster 설계.md",
     "4.Archive/Projects/injuk-zipster/c. Zipster API.md",
     "4.Archive/Projects/injuk-zipster/a. Zipster란?.md",
     "3.Resource/Zettelkasten/1.Fleeting/serverless framework로 배포된 리소스 롤백하기.md",
     "4.Archive/Daily/2023-12-01.md",
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
-    "1.Project/bucket-bingo/SP001/003. API 설계.md",
+    "4.Archive/Projects/bucket-bingo/SP001/003. API 설계.md",
     "3.Resource/IT/Dev/mysql docker 명령어.md",
     "2.Area/놀러갈 궁리/2023 FUK.md",
-    "1.Project/bucket-bingo/활동 기록.md",
-    "1.Project/bucket-bingo/SP001/004. 화면설계.md",
+    "4.Archive/Projects/bucket-bingo/활동 기록.md",
+    "4.Archive/Projects/bucket-bingo/SP001/004. 화면설계.md",
     "2.Area/영화",
     "2.Area/귀",
     "4.Archive/Projects/injuk-zipster",
-    "1.Project/bucket-bingo",
+    "4.Archive/Projects/bucket-bingo",
     "4.Archive/Projects",
     "3.Resource/IT/DB",
     "무제 파일.canvas"
