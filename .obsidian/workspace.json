@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/mJis-pinteree/000. 계획.md",
+                "file": "1.Project/mJis-pinteree/000. Minda-REST 개요.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/mJis-pinteree/000. 계획.md",
+                "file": "1.Project/mJis-pinteree/000. Minda-REST 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/mJis-pinteree/000. 계획.md",
+                "file": "1.Project/mJis-pinteree/000. Minda-REST 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/mJis-pinteree/000. 계획.md"
+                "file": "1.Project/mJis-pinteree/000. Minda-REST 개요.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "2a55777b32966720",
   "lastOpenFiles": [
+    "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
+    "1.Project/mJis-pinteree/000. Minda-REST 개요.md",
     "4.Archive/Projects/bucket-bingo/활동 기록.md",
-    "1.Project/mJis-pinteree/000. 계획.md",
     "4.Archive/Projects/bucket-bingo/SP002/001. SP002.md",
     "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
     "2.Area/영화/2023 결산.md",
@@ -181,7 +182,6 @@
     "4.Archive/Projects/bucket-bingo/SP001/003. API 설계.md",
     "3.Resource/IT/Dev/mysql docker 명령어.md",
     "2.Area/놀러갈 궁리/2023 FUK.md",
-    "4.Archive/Projects/bucket-bingo/SP001/004. 화면설계.md",
     "2.Area/영화",
     "2.Area/귀",
     "4.Archive/Projects/injuk-zipster",
