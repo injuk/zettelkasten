@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
+                "file": "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
+                "file": "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
+                "file": "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md"
+                "file": "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md"
               }
             }
           }
@@ -152,8 +151,11 @@
   },
   "active": "2a55777b32966720",
   "lastOpenFiles": [
-    "1.Project/mJis-pinteree/000. Minda-REST 개요.md",
     "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
+    "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
+    "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
+    "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
+    "1.Project/mJis-indarest/000. indarest란?.md",
     "4.Archive/Projects/bucket-bingo/활동 기록.md",
     "4.Archive/Projects/bucket-bingo/SP002/001. SP002.md",
     "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
@@ -167,7 +169,7 @@
     "4.Archive/Projects/bucket-bingo/SP001/005. 기술 관련 결정 사항.md",
     "4.Archive/Projects/bucket-bingo/SP001",
     "3.Resource/Zettelkasten/1.Fleeting/SpringSecurity 스터디.md",
-    "1.Project/mJis-pinteree",
+    "1.Project/mJis-indarest",
     "1.Project/bucket-auth",
     "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
     "3.Resource/IT/Java/Java, Spring과 DB.md",
@@ -179,9 +181,6 @@
     "3.Resource/Zettelkasten/1.Fleeting/serverless framework로 배포된 리소스 롤백하기.md",
     "4.Archive/Daily/2023-12-01.md",
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
-    "4.Archive/Projects/bucket-bingo/SP001/003. API 설계.md",
-    "3.Resource/IT/Dev/mysql docker 명령어.md",
-    "2.Area/놀러갈 궁리/2023 FUK.md",
     "2.Area/영화",
     "2.Area/귀",
     "4.Archive/Projects/injuk-zipster",
