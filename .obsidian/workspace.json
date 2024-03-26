@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
+                "file": "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
+                "file": "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
+                "file": "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/mJis-indarest/001. indarest 요구사항 정리.md"
+                "file": "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   },
   "active": "2a55777b32966720",
   "lastOpenFiles": [
+    "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
     "1.Project/mJis-indarest/000. indarest란?.md",
     "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
-    "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
     "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
     "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
     "4.Archive/Projects/bucket-bingo/활동 기록.md",
