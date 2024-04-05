@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/mJis-indarest/000. indarest란?.md",
+                "file": "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/mJis-indarest/000. indarest란?.md",
+                "file": "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/mJis-indarest/000. indarest란?.md",
+                "file": "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/mJis-indarest/000. indarest란?.md"
+                "file": "1.Project/mJis-indarest/001. indarest 요구사항 정리.md"
               }
             }
           }
@@ -151,9 +151,10 @@
   },
   "active": "2a55777b32966720",
   "lastOpenFiles": [
+    "1.Project/mJis-indarest/000. indarest란?.md",
+    "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
     "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
     "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
-    "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
     "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
     "3.Resource/Zettelkasten/1.Fleeting/객제지향 원칙은 왜 준수해야 할까?.md",
     "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
@@ -162,7 +163,6 @@
     "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
     "3.Resource/IT/Dev/정적 팩토리 메소드 명명하기.md",
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
-    "1.Project/mJis-indarest/000. indarest란?.md",
     "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
     "4.Archive/Projects/bucket-bingo/활동 기록.md",
     "4.Archive/Projects/bucket-bingo/SP002/001. SP002.md",
