@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
+                "file": "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 320.5
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
+                "file": "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
+                "file": "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md"
+                "file": "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md"
               }
             }
           }
@@ -151,36 +151,36 @@
   },
   "active": "2a55777b32966720",
   "lastOpenFiles": [
+    "1.Project/mJis-indarest/004. minio 도커로 띄우기.md",
+    "3.Resource/IT/Dev/git rebase로 브랜치를 일자로 관리하기.md",
+    "README.md",
+    "4.Archive/Daily/2023-09-27.md",
+    "4.Archive/Daily/2023-12-01.md",
+    "3.Resource/Zettelkasten/3.Permanent/Web Server와 Web Application Server.md",
+    "3.Resource/Zettelkasten/2.Literature/SAGA 패턴.md",
+    "3.Resource/Zettelkasten/2.Literature/책들.md",
+    "3.Resource/Zettelkasten/1.Fleeting/url용 nextCursor 문제.md",
+    "3.Resource/Zettelkasten/1.Fleeting/serverless framework로 배포된 리소스 롤백하기.md",
+    "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md",
+    "3.Resource/Zettelkasten/1.Fleeting/API First Design이란?.md",
+    "3.Resource/Zettelkasten/1.Fleeting/커서 기반 페이지네이션.md",
+    "3.Resource/Zettelkasten/1.Fleeting/잘못알고 있던 JS 화살표 함수의 호이스팅.md",
+    "3.Resource/Zettelkasten/1.Fleeting/멀티 모듈 프로젝트는 왜 사용할까?.md",
+    "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
+    "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
     "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
     "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
     "1.Project/mJis-indarest/000. indarest란?.md",
     "3.Resource/IT/Java/HikariProxyConnection.md",
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
-    "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
     "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
     "3.Resource/Zettelkasten/1.Fleeting/객제지향 원칙은 왜 준수해야 할까?.md",
     "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
     "3.Resource/IT/Java/Java, Spring과 DB.md",
-    "3.Resource/IT/Java/Spring은 왜 써야할까?.md",
-    "3.Resource/IT/Dev/정적 팩토리 메소드 명명하기.md",
-    "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
-    "4.Archive/Projects/bucket-bingo/활동 기록.md",
-    "4.Archive/Projects/bucket-bingo/SP002/001. SP002.md",
-    "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
-    "2.Area/영화/2023 결산.md",
-    "2.Area/영화/2022 결산.md",
-    "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md",
-    "4.Archive/Projects/bucket-bingo/999. 백로그.md",
     "4.Archive/Projects/bucket-bingo/SP002",
-    "4.Archive/Projects/bucket-bingo/SP001/001. BucketBingo.md",
-    "4.Archive/Projects/bucket-bingo/SP001/006. SP001.md",
-    "4.Archive/Projects/bucket-bingo/SP001/005. 기술 관련 결정 사항.md",
     "4.Archive/Projects/bucket-bingo/SP001",
-    "3.Resource/Zettelkasten/1.Fleeting/SpringSecurity 스터디.md",
     "1.Project/mJis-indarest",
     "1.Project/bucket-auth",
-    "4.Archive/Projects/bucket-bingo/SP001/002. 모델 설계.md",
-    "4.Archive/Projects/injuk-zipster/b. Zipster 설계.md",
     "2.Area/영화",
     "2.Area/귀",
     "4.Archive/Projects/injuk-zipster",
