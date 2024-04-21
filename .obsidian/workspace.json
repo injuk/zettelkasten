@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/mJis-indarest/005. User.md",
+                "file": "1.Project/mJis-indarest/005. 생각 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/mJis-indarest/005. User.md",
+                "file": "1.Project/mJis-indarest/005. 생각 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/mJis-indarest/005. User.md",
+                "file": "1.Project/mJis-indarest/005. 생각 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/mJis-indarest/005. User.md"
+                "file": "1.Project/mJis-indarest/005. 생각 정리.md"
               }
             }
           }
@@ -153,7 +153,7 @@
   "lastOpenFiles": [
     "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
     "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
-    "1.Project/mJis-indarest/005. User.md",
+    "1.Project/mJis-indarest/005. 생각 정리.md",
     "1.Project/mJis-indarest/004. minio 도커로 띄우기.md",
     "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
     "3.Resource/IT/Dev/git rebase로 브랜치를 일자로 관리하기.md",
