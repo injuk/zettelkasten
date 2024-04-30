@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024 FUK.md",
+                "file": "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa51eff3c69b8a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Area/놀러갈 궁리/2024-FUK/002. 계획.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024 FUK.md",
+                "file": "2.Area/놀러갈 궁리/2024-FUK/002. 계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024 FUK.md",
+                "file": "2.Area/놀러갈 궁리/2024-FUK/002. 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024 FUK.md"
+                "file": "2.Area/놀러갈 궁리/2024-FUK/002. 계획.md"
               }
             }
           }
@@ -149,8 +163,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a55777b32966720",
+  "active": "fa51eff3c69b8a45",
   "lastOpenFiles": [
+    "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
+    "2.Area/놀러갈 궁리/2024-FUK/002. 계획.md",
+    "Pasted image 20240430205256.png",
+    "2.Area/놀러갈 궁리/2024-FUK",
     "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
     "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
     "1.Project/mJis-indarest/000. indarest란?.md",
@@ -174,9 +192,6 @@
     "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
     "3.Resource/IT/Java/HikariProxyConnection.md",
     "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
-    "3.Resource/Zettelkasten/1.Fleeting/공부해보고 싶은 친구들.md",
-    "3.Resource/Zettelkasten/1.Fleeting/객제지향 원칙은 왜 준수해야 할까?.md",
-    "3.Resource/IT/Java/Cannot load driver class org.postgresql.Driver.md",
     "4.Archive/Projects/bucket-bingo/SP002",
     "4.Archive/Projects/bucket-bingo/SP001",
     "1.Project/mJis-indarest",
@@ -186,7 +201,6 @@
     "4.Archive/Projects/injuk-zipster",
     "4.Archive/Projects/bucket-bingo",
     "4.Archive/Projects",
-    "3.Resource/IT/DB",
     "무제 파일.canvas"
   ]
 }
