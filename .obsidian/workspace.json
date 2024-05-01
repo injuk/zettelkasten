@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-FUK/002. 계획.md",
+                "file": "2.Area/놀러갈 궁리/2024-FUK/002. 5월 14일(화) 계획.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "387c64695205072f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Area/놀러갈 궁리/2024-FUK/002. 5월 14일(화) 계획.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -82,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
+                "file": "2.Area/놀러갈 궁리/2024-FUK/002. 5월 14일(화) 계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
+                "file": "2.Area/놀러갈 궁리/2024-FUK/002. 5월 14일(화) 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md"
+                "file": "2.Area/놀러갈 궁리/2024-FUK/002. 5월 14일(화) 계획.md"
               }
             }
           }
@@ -162,10 +174,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a55777b32966720",
+  "active": "387c64695205072f",
   "lastOpenFiles": [
-    "2.Area/놀러갈 궁리/2024-FUK/002. 계획.md",
+    "2.Area/놀러갈 궁리/2024-FUK/004. 5월 16일(목) 계획.md",
+    "2.Area/놀러갈 궁리/2024-FUK/003. 5월 15일(수) 계획.md",
+    "2.Area/놀러갈 궁리/2024-FUK/002. 5월 14일(화) 계획.md",
+    "2.Area/놀러갈 궁리/2024-FUK/005. 5월 17일(금) 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
+    "2.Area/놀러갈 궁리/2024-FUK/images/후쿠오카 공항 -> 하카타역 버스 시간표.md",
+    "2.Area/놀러갈 궁리/2024-FUK/images",
     "Pasted image 20240430205256.png",
     "2.Area/놀러갈 궁리/2024-FUK",
     "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
@@ -188,9 +205,6 @@
     "3.Resource/Zettelkasten/1.Fleeting/커서 기반 페이지네이션.md",
     "3.Resource/Zettelkasten/1.Fleeting/잘못알고 있던 JS 화살표 함수의 호이스팅.md",
     "3.Resource/Zettelkasten/1.Fleeting/멀티 모듈 프로젝트는 왜 사용할까?.md",
-    "3.Resource/Zettelkasten/1.Fleeting/무제 파일.md",
-    "3.Resource/IT/Java/HikariProxyConnection.md",
-    "3.Resource/IT/Dev/원격 리포지토리로부터 pull.md",
     "4.Archive/Projects/bucket-bingo/SP002",
     "4.Archive/Projects/bucket-bingo/SP001",
     "1.Project/mJis-indarest",
@@ -199,7 +213,6 @@
     "2.Area/귀",
     "4.Archive/Projects/injuk-zipster",
     "4.Archive/Projects/bucket-bingo",
-    "4.Archive/Projects",
     "무제 파일.canvas"
   ]
 }
