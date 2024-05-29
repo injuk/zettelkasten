@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/mJis-indarest/004. minio 도커로 띄우기.md",
+                "file": "4.Archive/Projects/mJis-indarest/1.0.0/000. indarest란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/mJis-indarest/004. minio 도커로 띄우기.md",
+                "file": "4.Archive/Projects/mJis-indarest/1.0.0/000. indarest란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/mJis-indarest/004. minio 도커로 띄우기.md",
+                "file": "4.Archive/Projects/mJis-indarest/1.0.0/000. indarest란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/mJis-indarest/004. minio 도커로 띄우기.md"
+                "file": "4.Archive/Projects/mJis-indarest/1.0.0/000. indarest란?.md"
               }
             }
           }
@@ -149,9 +149,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "387c64695205072f",
+  "active": "afe3e5b9e4ebccab",
   "lastOpenFiles": [
-    "1.Project/mJis-indarest/005. 생각 정리.md",
+    "4.Archive/Projects/mJis-indarest/1.0.0/004. minio 도커로 띄우기.md",
+    "4.Archive/Projects/mJis-indarest/1.0.0",
+    "4.Archive/Projects/mJis-indarest/1.0.0/005. 생각 정리.md",
     "2.Area/놀러갈 궁리/2024-FUK/006. 후기.md",
     "2.Area/놀러갈 궁리/2024-FUK/005. 5월 17일(금) 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
@@ -159,15 +161,14 @@
     "2.Area/놀러갈 궁리/2024-FUK/003. 5월 15일(수) 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/004. 5월 16일(목) 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/images/후쿠오카 공항 -> 하카타역 버스 시간표.md",
-    "1.Project/mJis-indarest/004. minio 도커로 띄우기.md",
     "2.Area/영화/2023 결산.md",
     "2.Area/놀러갈 궁리/2024-FUK/images",
     "Pasted image 20240430205256.png",
     "2.Area/놀러갈 궁리/2024-FUK",
-    "1.Project/mJis-indarest/003. indarest-api 아키텍쳐.md",
-    "1.Project/mJis-indarest/002. indarest 모델 및 API 설계.md",
-    "1.Project/mJis-indarest/000. indarest란?.md",
-    "1.Project/mJis-indarest/001. indarest 요구사항 정리.md",
+    "4.Archive/Projects/mJis-indarest/1.0.0/003. indarest-api 아키텍쳐.md",
+    "4.Archive/Projects/mJis-indarest/1.0.0/002. indarest 모델 및 API 설계.md",
+    "4.Archive/Projects/mJis-indarest/1.0.0/000. indarest란?.md",
+    "4.Archive/Projects/mJis-indarest/1.0.0/001. indarest 요구사항 정리.md",
     "3.Resource/IT/Dev/git rebase로 브랜치를 일자로 관리하기.md",
     "README.md",
     "4.Archive/Daily/2023-09-27.md",
@@ -179,15 +180,13 @@
     "3.Resource/Zettelkasten/1.Fleeting/serverless framework로 배포된 리소스 롤백하기.md",
     "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md",
     "3.Resource/Zettelkasten/1.Fleeting/API First Design이란?.md",
-    "3.Resource/Zettelkasten/1.Fleeting/커서 기반 페이지네이션.md",
     "4.Archive/Projects/bucket-bingo/SP002",
     "4.Archive/Projects/bucket-bingo/SP001",
-    "1.Project/mJis-indarest",
+    "4.Archive/Projects/mJis-indarest",
     "1.Project/bucket-auth",
     "2.Area/영화",
     "2.Area/귀",
     "4.Archive/Projects/injuk-zipster",
-    "4.Archive/Projects/bucket-bingo",
     "무제 파일.canvas"
   ]
 }
