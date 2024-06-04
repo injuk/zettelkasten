@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+                "file": "1.Project/멀티모듈 뿌시기/002. DDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+                "file": "1.Project/멀티모듈 뿌시기/002. DDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+                "file": "1.Project/멀티모듈 뿌시기/002. DDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md"
+                "file": "1.Project/멀티모듈 뿌시기/002. DDD.md"
               }
             }
           }
@@ -151,9 +151,10 @@
   },
   "active": "387c64695205072f",
   "lastOpenFiles": [
+    "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+    "1.Project/멀티모듈 뿌시기/002. DDD.md",
     "1.Project/멀티모듈 뿌시기",
     "4.Archive/Projects/mJis-indarest/1.0.0/000. indarest란?.md",
-    "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
     "4.Archive/Projects/mJis-indarest/1.0.0/004. minio 도커로 띄우기.md",
     "4.Archive/Projects/mJis-indarest/1.0.0",
     "4.Archive/Projects/mJis-indarest/1.0.0/005. 생각 정리.md",
@@ -187,7 +188,6 @@
     "1.Project/bucket-auth",
     "2.Area/영화",
     "2.Area/귀",
-    "4.Archive/Projects/injuk-zipster",
     "무제 파일.canvas"
   ]
 }
