@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/002. DDD.md",
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#commentor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/002. DDD.md",
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/002. DDD.md",
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/002. DDD.md"
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델.md"
               }
             }
           }
@@ -151,8 +151,14 @@
   },
   "active": "387c64695205072f",
   "lastOpenFiles": [
+    "3.Resource/Zettelkasten/1.Fleeting/개념 모델이란?.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/도메인 영역.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/도메인이란?.md",
+    "3.Resource/Zettelkasten/1.Fleeting/도메인.md",
     "1.Project/멀티모듈 뿌시기/002. DDD.md",
     "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+    "1.Project/멀티모듈 뿌시기/fleeting",
     "1.Project/멀티모듈 뿌시기",
     "4.Archive/Projects/mJis-indarest/1.0.0/000. indarest란?.md",
     "4.Archive/Projects/mJis-indarest/1.0.0/004. minio 도커로 띄우기.md",
@@ -177,17 +183,11 @@
     "4.Archive/Daily/2023-09-27.md",
     "4.Archive/Daily/2023-12-01.md",
     "3.Resource/Zettelkasten/3.Permanent/Web Server와 Web Application Server.md",
-    "3.Resource/Zettelkasten/2.Literature/SAGA 패턴.md",
-    "3.Resource/Zettelkasten/2.Literature/책들.md",
-    "3.Resource/Zettelkasten/1.Fleeting/url용 nextCursor 문제.md",
-    "3.Resource/Zettelkasten/1.Fleeting/serverless framework로 배포된 리소스 롤백하기.md",
-    "3.Resource/Zettelkasten/1.Fleeting/localhost 8080 톰캣 내쫓기.md",
     "4.Archive/Projects/bucket-bingo/SP002",
     "4.Archive/Projects/bucket-bingo/SP001",
     "4.Archive/Projects/mJis-indarest",
     "1.Project/bucket-auth",
     "2.Area/영화",
-    "2.Area/귀",
     "무제 파일.canvas"
   ]
 }
