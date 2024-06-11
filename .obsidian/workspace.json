@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델.md",
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/애그리거트란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델.md",
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/애그리거트란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델.md",
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/애그리거트란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델.md"
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/애그리거트란?.md"
               }
             }
           }
@@ -151,12 +151,22 @@
   },
   "active": "387c64695205072f",
   "lastOpenFiles": [
-    "3.Resource/Zettelkasten/1.Fleeting/개념 모델이란?.md",
-    "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델.md",
-    "1.Project/멀티모듈 뿌시기/fleeting/도메인 영역.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/표현 영역.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/인프라 영역.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/응용 영역.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/유비쿼터스 언어란?.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/엔티티란?.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/애그리거트란?.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/밸류 타입이란?.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/리포지토리란?.md",
     "1.Project/멀티모듈 뿌시기/fleeting/도메인이란?.md",
-    "3.Resource/Zettelkasten/1.Fleeting/도메인.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/도메인 영역.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/도메인 서비스란?.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델이란?.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/개념 모델이란?.md",
     "1.Project/멀티모듈 뿌시기/002. DDD.md",
+    "3.Resource/Zettelkasten/1.Fleeting/멀티 모듈 프로젝트는 왜 사용할까?.md",
+    "3.Resource/Zettelkasten/1.Fleeting/도메인.md",
     "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
     "1.Project/멀티모듈 뿌시기/fleeting",
     "1.Project/멀티모듈 뿌시기",
@@ -170,19 +180,9 @@
     "2.Area/놀러갈 궁리/2024-FUK/002. 5월 14일(화) 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/003. 5월 15일(수) 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/004. 5월 16일(목) 계획.md",
-    "2.Area/놀러갈 궁리/2024-FUK/images/후쿠오카 공항 -> 하카타역 버스 시간표.md",
-    "2.Area/영화/2023 결산.md",
     "2.Area/놀러갈 궁리/2024-FUK/images",
     "Pasted image 20240430205256.png",
     "2.Area/놀러갈 궁리/2024-FUK",
-    "4.Archive/Projects/mJis-indarest/1.0.0/003. indarest-api 아키텍쳐.md",
-    "4.Archive/Projects/mJis-indarest/1.0.0/002. indarest 모델 및 API 설계.md",
-    "4.Archive/Projects/mJis-indarest/1.0.0/001. indarest 요구사항 정리.md",
-    "3.Resource/IT/Dev/git rebase로 브랜치를 일자로 관리하기.md",
-    "README.md",
-    "4.Archive/Daily/2023-09-27.md",
-    "4.Archive/Daily/2023-12-01.md",
-    "3.Resource/Zettelkasten/3.Permanent/Web Server와 Web Application Server.md",
     "4.Archive/Projects/bucket-bingo/SP002",
     "4.Archive/Projects/bucket-bingo/SP001",
     "4.Archive/Projects/mJis-indarest",
