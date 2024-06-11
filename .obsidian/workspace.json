@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8427bac29db4389",
+        "id": "fa0d9436d5350fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "387c64695205072f",
+            "id": "76e57f40aed2ae88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/fleeting/애그리거트란?.md",
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 주도 설계란 무엇인가?.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,25 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "387c64695205072f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/루트 엔티티란?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/fleeting/애그리거트란?.md",
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 주도 설계란 무엇인가?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/fleeting/애그리거트란?.md",
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 주도 설계란 무엇인가?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/fleeting/애그리거트란?.md"
+                "file": "1.Project/멀티모듈 뿌시기/fleeting/도메인 주도 설계란 무엇인가?.md"
               }
             }
           }
@@ -149,8 +162,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "387c64695205072f",
+  "active": "76e57f40aed2ae88",
   "lastOpenFiles": [
+    "1.Project/멀티모듈 뿌시기/002. DDD.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/도메인 주도 설계란 무엇인가?.md",
     "1.Project/멀티모듈 뿌시기/fleeting/표현 영역.md",
     "1.Project/멀티모듈 뿌시기/fleeting/인프라 영역.md",
     "1.Project/멀티모듈 뿌시기/fleeting/응용 영역.md",
@@ -158,13 +173,14 @@
     "1.Project/멀티모듈 뿌시기/fleeting/엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/fleeting/애그리거트란?.md",
     "1.Project/멀티모듈 뿌시기/fleeting/밸류 타입이란?.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/바운디드 컨텍스트란?.md",
     "1.Project/멀티모듈 뿌시기/fleeting/리포지토리란?.md",
+    "1.Project/멀티모듈 뿌시기/fleeting/루트 엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/fleeting/도메인이란?.md",
     "1.Project/멀티모듈 뿌시기/fleeting/도메인 영역.md",
     "1.Project/멀티모듈 뿌시기/fleeting/도메인 서비스란?.md",
     "1.Project/멀티모듈 뿌시기/fleeting/도메인 모델이란?.md",
     "1.Project/멀티모듈 뿌시기/fleeting/개념 모델이란?.md",
-    "1.Project/멀티모듈 뿌시기/002. DDD.md",
     "3.Resource/Zettelkasten/1.Fleeting/멀티 모듈 프로젝트는 왜 사용할까?.md",
     "3.Resource/Zettelkasten/1.Fleeting/도메인.md",
     "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
@@ -177,9 +193,6 @@
     "2.Area/놀러갈 궁리/2024-FUK/006. 후기.md",
     "2.Area/놀러갈 궁리/2024-FUK/005. 5월 17일(금) 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
-    "2.Area/놀러갈 궁리/2024-FUK/002. 5월 14일(화) 계획.md",
-    "2.Area/놀러갈 궁리/2024-FUK/003. 5월 15일(수) 계획.md",
-    "2.Area/놀러갈 궁리/2024-FUK/004. 5월 16일(목) 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/images",
     "Pasted image 20240430205256.png",
     "2.Area/놀러갈 궁리/2024-FUK",
