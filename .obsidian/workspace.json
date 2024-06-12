@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/permanent/도메인 주도 설계란 무엇인가?.md",
+                "file": "1.Project/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/permanent/도메인 주도 설계란 무엇인가?.md",
+                "file": "1.Project/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/permanent/도메인 주도 설계란 무엇인가?.md",
+                "file": "1.Project/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/permanent/도메인 주도 설계란 무엇인가?.md"
+                "file": "1.Project/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md"
               }
             }
           }
@@ -163,9 +164,10 @@
   },
   "active": "76e57f40aed2ae88",
   "lastOpenFiles": [
+    "1.Project/멀티모듈 뿌시기/permanent/001. 도메인 주도 설계란 무엇인가?.md",
+    "1.Project/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md",
     "1.Project/멀티모듈 뿌시기/002. DDD.md",
     "1.Project/멀티모듈 뿌시기/permanent",
-    "1.Project/멀티모듈 뿌시기/permanent/도메인 주도 설계란 무엇인가?.md",
     "1.Project/멀티모듈 뿌시기/literature/표현 영역.md",
     "1.Project/멀티모듈 뿌시기/literature/인프라 영역.md",
     "1.Project/멀티모듈 뿌시기/literature/응용 영역.md",
