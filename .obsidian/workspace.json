@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/응용 영역.md",
+                "file": "1.Project/멀티모듈 뿌시기/permanent/006. 마이크로서비스.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/응용 영역.md",
+                "file": "1.Project/멀티모듈 뿌시기/permanent/006. 마이크로서비스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/응용 영역.md",
+                "file": "1.Project/멀티모듈 뿌시기/permanent/006. 마이크로서비스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/응용 영역.md"
+                "file": "1.Project/멀티모듈 뿌시기/permanent/006. 마이크로서비스.md"
               }
             }
           }
@@ -163,16 +163,17 @@
   },
   "active": "76e57f40aed2ae88",
   "lastOpenFiles": [
-    "1.Project/멀티모듈 뿌시기/permanent/005. 주의사항.md",
     "1.Project/멀티모듈 뿌시기/permanent/004. 애그리게이트.md",
+    "1.Project/멀티모듈 뿌시기/permanent/005. 주의사항.md",
+    "1.Project/멀티모듈 뿌시기/permanent/006. 마이크로서비스.md",
     "1.Project/멀티모듈 뿌시기/permanent/003. 애플리케이션 영역.md",
+    "1.Project/멀티모듈 뿌시기/literature/응용 영역.md",
     "1.Project/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md",
     "1.Project/멀티모듈 뿌시기/permanent/001. 도메인 주도 설계란 무엇인가?.md",
     "1.Project/멀티모듈 뿌시기/002. DDD.md",
     "1.Project/멀티모듈 뿌시기/permanent",
     "1.Project/멀티모듈 뿌시기/literature/표현 영역.md",
     "1.Project/멀티모듈 뿌시기/literature/인프라 영역.md",
-    "1.Project/멀티모듈 뿌시기/literature/응용 영역.md",
     "1.Project/멀티모듈 뿌시기/literature/유비쿼터스 언어란?.md",
     "1.Project/멀티모듈 뿌시기/literature/엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
@@ -191,7 +192,6 @@
     "1.Project/멀티모듈 뿌시기/literature",
     "1.Project/멀티모듈 뿌시기",
     "4.Archive/Projects/mJis-indarest/1.0.0/000. indarest란?.md",
-    "4.Archive/Projects/mJis-indarest/1.0.0/004. minio 도커로 띄우기.md",
     "4.Archive/Projects/mJis-indarest/1.0.0",
     "2.Area/놀러갈 궁리/2024-FUK/images",
     "Pasted image 20240430205256.png",
