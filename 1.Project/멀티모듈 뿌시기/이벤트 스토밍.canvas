@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"907a93bee554957e","type":"text","text":"문서 생성","x":-1020,"y":-900,"width":117,"height":117,"color":"#001eff"},
+		{"id":"51ca1ae5a127ea17","type":"text","text":"문서 \n생성됨","x":-903,"y":-900,"width":117,"height":117,"color":"2"},
+		{"id":"3686fa318472becf","type":"text","text":"문서 \n업로드됨","x":-610,"y":-900,"width":117,"height":117,"color":"2"},
+		{"id":"2e0a21b9a94bedc0","type":"text","text":"문서 \n조회됨","x":-344,"y":-900,"width":117,"height":117,"color":"2"},
+		{"id":"ba572d3ede492a0e","type":"text","text":"썸네일\n시스템","x":-806,"y":-212,"width":117,"height":117,"color":"#ff5577"},
+		{"id":"bdb83b50780f9316","type":"text","text":"문서 \n썸네일\n추출됨","x":-923,"y":-25,"width":117,"height":117,"color":"2"},
+		{"id":"d99ef99ea6723b06","type":"text","text":"카테고리 등록됨","x":-579,"y":0,"width":117,"height":117,"color":"2"},
+		{"id":"79a7e5041ba080f9","type":"text","text":"아카이브\n시스템","x":-696,"y":246,"width":117,"height":117,"color":"#ff5577"},
+		{"id":"678a583c3f726f39","type":"text","text":"문서 \n아카이브됨","x":-930,"y":411,"width":117,"height":117,"color":"2"},
+		{"id":"918c550578b3d55b","type":"text","text":"아카이브\n복원됨","x":-402,"y":411,"width":117,"height":117,"color":"2"},
+		{"id":"2b022e651a88a22f","type":"text","text":"카테고리\n시스템","x":-489,"y":-212,"width":117,"height":117,"color":"#ff5577"},
+		{"id":"43031979ec2398b9","type":"text","text":"문서 \n본문 \n수정됨","x":-40,"y":-900,"width":117,"height":117,"color":"2"},
+		{"id":"e6ddf4855156898b","type":"text","text":"문서 \n이동됨","x":280,"y":-900,"width":117,"height":117,"color":"2"},
+		{"id":"8559d0388051b2a5","type":"text","text":"문서 \n삭제됨","x":540,"y":-900,"width":117,"height":117,"color":"2"},
+		{"id":"54c07276c8f7598e","type":"text","text":"문서 \n다운로드됨","x":-1098,"y":-363,"width":117,"height":117,"color":"2"},
+		{"id":"3c6c1330f915cfc3","type":"text","text":"다운로드\n시스템","x":-923,"y":-540,"width":117,"height":117,"color":"#ff5577"},
+		{"id":"6cda044e57ea9863","type":"text","text":"문서\n메타데이터\n등록됨","x":-606,"y":-598,"width":117,"height":117,"color":"2"},
+		{"id":"705faf5c7fe2b70f","type":"text","text":"문서\n메타데이터\n조회됨","x":-343,"y":-598,"width":117,"height":117,"color":"2"},
+		{"id":"37f58625f76393f6","type":"text","text":"문서\n메타데이터\n수정됨","x":-60,"y":-598,"width":117,"height":117,"color":"2"},
+		{"id":"b87a4cd37ee94189","type":"text","text":"문서\n메타데이터\n삭제됨","x":222,"y":-598,"width":117,"height":117,"color":"2"}
+	],
+	"edges":[
+		{"id":"b7ac5b1c9f7956fe","fromNode":"678a583c3f726f39","fromSide":"top","toNode":"79a7e5041ba080f9","toSide":"left"},
+		{"id":"e299099af7682e85","fromNode":"918c550578b3d55b","fromSide":"top","toNode":"79a7e5041ba080f9","toSide":"right"},
+		{"id":"6d37c85b64163047","fromNode":"bdb83b50780f9316","fromSide":"top","toNode":"ba572d3ede492a0e","toSide":"left"},
+		{"id":"29a55778ca726939","fromNode":"d99ef99ea6723b06","fromSide":"top","toNode":"2b022e651a88a22f","toSide":"left"},
+		{"id":"99942108c485aec7","fromNode":"54c07276c8f7598e","fromSide":"top","toNode":"3c6c1330f915cfc3","toSide":"left"}
+	]
+}
