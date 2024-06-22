@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76e57f40aed2ae88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Project/멀티모듈 뿌시기/permanent/007. 이벤트 스토밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4645a92d9f0568b1",
             "type": "leaf",
             "state": {
@@ -27,15 +15,14 @@
               "state": {
                 "file": "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
                 "viewState": {
-                  "x": 1016.0685627596681,
-                  "y": -553.428472189725,
-                  "zoom": -1.4066478876397008
+                  "x": -270.1667042091756,
+                  "y": -1005.331195900515,
+                  "zoom": -1.4879846069092548
                 }
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
