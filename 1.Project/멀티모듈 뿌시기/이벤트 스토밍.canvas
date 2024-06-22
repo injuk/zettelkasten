@@ -11,8 +11,8 @@
 		{"id":"a1b10d22403837a2","type":"text","text":"문서 \n본문\n업로드","x":-889,"y":-1360,"width":117,"height":117,"color":"#001eff"},
 		{"id":"3686fa318472becf","type":"text","text":"문서\n본문\n업로드됨","x":-772,"y":-1360,"width":117,"height":117,"color":"2"},
 		{"id":"e55ff1beb967609d","type":"text","text":"","x":-939,"y":-1293,"width":50,"height":50,"color":"3"},
-		{"id":"54c07276c8f7598e","type":"text","text":"문서 \n다운로드됨","x":-1150,"y":-1360,"width":117,"height":117,"color":"2"},
-		{"id":"de2d55110396fd52","type":"text","text":"문서 \n다운로드","x":-1267,"y":-1360,"width":117,"height":117,"color":"#001eff"},
+		{"id":"54c07276c8f7598e","type":"text","text":"문서 \n다운로드요청됨","x":-1150,"y":-1360,"width":117,"height":117,"color":"2"},
+		{"id":"de2d55110396fd52","type":"text","text":"문서 \n다운로드\n요청","x":-1267,"y":-1360,"width":117,"height":117,"color":"#001eff"},
 		{"id":"a46e585d5d8c3002","type":"text","text":"","x":-1317,"y":-1293,"width":50,"height":50,"color":"3"},
 		{"id":"907a93bee554957e","type":"text","text":"문서 \n생성","x":-1593,"y":-1360,"width":117,"height":117,"color":"#001eff"},
 		{"id":"51ca1ae5a127ea17","type":"text","text":"문서 \n생성됨","x":-1476,"y":-1360,"width":117,"height":117,"color":"2"},
@@ -74,7 +74,8 @@
 		{"id":"b7c705b190d8a1e0","type":"text","text":"문서 \n메타데이터\n삭제","x":248,"y":-283,"width":117,"height":117,"color":"#001eff"},
 		{"id":"b87a4cd37ee94189","type":"text","text":"문서\n메타데이터\n삭제됨","x":365,"y":-283,"width":117,"height":117,"color":"2"},
 		{"id":"62a91cbcb13c7f1b","type":"text","text":"","x":198,"y":-216,"width":50,"height":50,"color":"3"},
-		{"id":"717be5ce8ebc769f","type":"text","text":"문서 \n메타데이터","x":307,"y":-400,"width":117,"height":117,"color":"3"}
+		{"id":"717be5ce8ebc769f","type":"text","text":"문서 \n메타데이터","x":307,"y":-400,"width":117,"height":117,"color":"3"},
+		{"id":"65332c79f4294c8d","type":"text","text":"문서 \n다운로드됨","x":-1149,"y":-640,"width":117,"height":117,"color":"2"}
 	],
 	"edges":[
 		{"id":"f2aa557bcedd4e55","fromNode":"ba572d3ede492a0e","fromSide":"bottom","toNode":"919eca1d4e9fc1b6","toSide":"top"},
@@ -97,6 +98,7 @@
 		{"id":"ad0dfab512882ae3","fromNode":"11c64a46d4a1fd41","fromSide":"right","toNode":"011df685255e98ff","toSide":"bottom"},
 		{"id":"c9750247941f3474","fromNode":"dfe98209f260852b","fromSide":"left","toNode":"011df685255e98ff","toSide":"bottom"},
 		{"id":"7f7d67f18c8e8503","fromNode":"cf2eda648eb1ba5d","fromSide":"left","toNode":"011df685255e98ff","toSide":"left"},
-		{"id":"08f9137931505dee","fromNode":"6609298028664fa7","fromSide":"left","toNode":"011df685255e98ff","toSide":"left"}
+		{"id":"08f9137931505dee","fromNode":"6609298028664fa7","fromSide":"left","toNode":"011df685255e98ff","toSide":"left"},
+		{"id":"f739952d1f8d8fbb","fromNode":"3c6c1330f915cfc3","fromSide":"bottom","toNode":"65332c79f4294c8d","toSide":"top"}
 	]
 }
