@@ -18,6 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87c08902317bcbed",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
+                "viewState": {
+                  "x": -302.60440511840216,
+                  "y": -1841.5816058983082,
+                  "zoom": -0.8100823421265131
+                }
+              }
+            }
           }
         ],
         "stacked": true
@@ -82,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -165,32 +181,31 @@
   "lastOpenFiles": [
     "1.Project/멀티모듈 뿌시기/permanent/007. 이벤트 스토밍.md",
     "1.Project/멀티모듈 뿌시기/permanent/008. 직접 해보기.md",
+    "1.Project/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md",
+    "1.Project/멀티모듈 뿌시기/literature/도메인 영역.md",
+    "1.Project/멀티모듈 뿌시기/literature/엔티티란?.md",
+    "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
+    "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
+    "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
     "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
     "1.Project/멀티모듈 뿌시기/002. DDD.md",
-    "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
-    "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
     "1.Project/멀티모듈 뿌시기/permanent/004. 애그리거트.md",
     "1.Project/멀티모듈 뿌시기/permanent/005. 주의사항.md",
     "1.Project/멀티모듈 뿌시기/permanent/006. 마이크로서비스.md",
     "1.Project/멀티모듈 뿌시기/permanent/003. 애플리케이션 영역.md",
     "1.Project/멀티모듈 뿌시기/literature/응용 영역.md",
-    "1.Project/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md",
     "1.Project/멀티모듈 뿌시기/permanent/001. 도메인 주도 설계란 무엇인가?.md",
     "1.Project/멀티모듈 뿌시기/permanent",
     "1.Project/멀티모듈 뿌시기/literature/표현 영역.md",
     "1.Project/멀티모듈 뿌시기/literature/인프라 영역.md",
     "1.Project/멀티모듈 뿌시기/literature/유비쿼터스 언어란?.md",
-    "1.Project/멀티모듈 뿌시기/literature/엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature/밸류 타입이란?.md",
     "1.Project/멀티모듈 뿌시기/literature/바운디드 컨텍스트란?.md",
     "1.Project/멀티모듈 뿌시기/literature/리포지토리란?.md",
     "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인이란?.md",
-    "1.Project/멀티모듈 뿌시기/literature/도메인 영역.md",
-    "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인 모델이란?.md",
     "1.Project/멀티모듈 뿌시기/literature/개념 모델이란?.md",
-    "3.Resource/Zettelkasten/1.Fleeting/멀티 모듈 프로젝트는 왜 사용할까?.md",
     "1.Project/멀티모듈 뿌시기/literature",
     "1.Project/멀티모듈 뿌시기",
     "4.Archive/Projects/mJis-indarest/1.0.0",
