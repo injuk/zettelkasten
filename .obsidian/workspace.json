@@ -18,21 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87c08902317bcbed",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
-                "viewState": {
-                  "x": -302.60440511840216,
-                  "y": -1841.5816058983082,
-                  "zoom": -0.8100823421265131
-                }
-              }
-            }
           }
         ],
         "stacked": true
@@ -97,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -179,15 +163,15 @@
   },
   "active": "4645a92d9f0568b1",
   "lastOpenFiles": [
-    "1.Project/멀티모듈 뿌시기/permanent/007. 이벤트 스토밍.md",
+    "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
     "1.Project/멀티모듈 뿌시기/permanent/008. 직접 해보기.md",
+    "1.Project/멀티모듈 뿌시기/permanent/007. 이벤트 스토밍.md",
     "1.Project/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인 영역.md",
     "1.Project/멀티모듈 뿌시기/literature/엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
     "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
     "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
-    "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
     "1.Project/멀티모듈 뿌시기/002. DDD.md",
     "1.Project/멀티모듈 뿌시기/permanent/004. 애그리거트.md",
     "1.Project/멀티모듈 뿌시기/permanent/005. 주의사항.md",
