@@ -11,14 +11,11 @@
             "id": "4645a92d9f0568b1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
-                "viewState": {
-                  "x": -231.5,
-                  "y": -1160,
-                  "zoom": -1.4791015987774307
-                }
+                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
+                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
+                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas"
+                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md"
               }
             }
           }
@@ -167,9 +164,9 @@
   },
   "active": "4645a92d9f0568b1",
   "lastOpenFiles": [
+    "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
     "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
     "스크린샷 2024-06-25 오후 7.10.53.png",
-    "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
     "1.Project/멀티모듈 뿌시기/permanent/008. 직접 해보기.md",
     "1.Project/멀티모듈 뿌시기/002. DDD.md",
     "1.Project/멀티모듈 뿌시기/permanent/007. 이벤트 스토밍.md",
