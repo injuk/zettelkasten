@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+                "file": "2.Area/영화/2024 상반기 결산.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+                "file": "2.Area/영화/2024 상반기 결산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+                "file": "2.Area/영화/2024 상반기 결산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md"
+                "file": "2.Area/영화/2024 상반기 결산.md"
               }
             }
           }
@@ -164,8 +164,11 @@
   },
   "active": "4645a92d9f0568b1",
   "lastOpenFiles": [
-    "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
+    "2.Area/영화/2022 결산.md",
+    "2.Area/영화/2023 결산.md",
+    "2.Area/영화/2024 상반기 결산.md",
     "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+    "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
     "스크린샷 2024-06-25 오후 7.10.53.png",
     "1.Project/멀티모듈 뿌시기/permanent/008. 직접 해보기.md",
     "1.Project/멀티모듈 뿌시기/002. DDD.md",
@@ -190,8 +193,6 @@
     "1.Project/멀티모듈 뿌시기/literature/리포지토리란?.md",
     "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인이란?.md",
-    "1.Project/멀티모듈 뿌시기/literature/도메인 모델이란?.md",
-    "1.Project/멀티모듈 뿌시기/literature/개념 모델이란?.md",
     "1.Project/멀티모듈 뿌시기/literature",
     "1.Project/멀티모듈 뿌시기",
     "4.Archive/Projects/mJis-indarest/1.0.0",
