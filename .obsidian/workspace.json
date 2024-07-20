@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/백엔드 기초 수업 자료.md",
+                "file": "3.Resource/IT/Dev/git rebase 등.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/백엔드 기초 수업 자료.md",
+                "file": "3.Resource/IT/Dev/git rebase 등.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/백엔드 기초 수업 자료.md",
+                "file": "3.Resource/IT/Dev/git rebase 등.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/Zettelkasten/1.Fleeting/백엔드 기초 수업 자료.md"
+                "file": "3.Resource/IT/Dev/git rebase 등.md"
               }
             }
           }
@@ -164,8 +163,9 @@
   },
   "active": "730d577a8dc45c11",
   "lastOpenFiles": [
-    "2.Area/영화/2024 상반기 결산.md",
+    "3.Resource/Zettelkasten/1.Fleeting/testcontainer에 flyway로 DB seeding하기.md",
     "3.Resource/Zettelkasten/1.Fleeting/백엔드 기초 수업 자료.md",
+    "2.Area/영화/2024 상반기 결산.md",
     "2.Area/영화/2022 결산.md",
     "2.Area/영화/2023 결산.md",
     "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
@@ -192,7 +192,6 @@
     "1.Project/멀티모듈 뿌시기/literature/밸류 타입이란?.md",
     "1.Project/멀티모듈 뿌시기/literature/바운디드 컨텍스트란?.md",
     "1.Project/멀티모듈 뿌시기/literature/리포지토리란?.md",
-    "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature",
     "1.Project/멀티모듈 뿌시기",
     "4.Archive/Projects/mJis-indarest/1.0.0",
