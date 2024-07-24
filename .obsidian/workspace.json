@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 모델이란?.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 영역.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 모델이란?.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 영역.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 모델이란?.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 영역.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 모델이란?.md"
+                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 영역.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "730d577a8dc45c11",
   "lastOpenFiles": [
+    "1.Project/멀티모듈 뿌시기/literature/도메인 모델이란?.md",
     "3.Resource/IT/Dev/git rebase 등.md",
     "3.Resource/Zettelkasten/1.Fleeting/testcontainer에 flyway로 DB seeding하기.md",
     "3.Resource/Zettelkasten/1.Fleeting/백엔드 기초 수업 자료.md",
@@ -191,7 +192,6 @@
     "1.Project/멀티모듈 뿌시기/literature/인프라 영역.md",
     "1.Project/멀티모듈 뿌시기/literature/유비쿼터스 언어란?.md",
     "1.Project/멀티모듈 뿌시기/literature/밸류 타입이란?.md",
-    "1.Project/멀티모듈 뿌시기/literature/바운디드 컨텍스트란?.md",
     "1.Project/멀티모듈 뿌시기/literature",
     "1.Project/멀티모듈 뿌시기",
     "4.Archive/Projects/mJis-indarest/1.0.0",
