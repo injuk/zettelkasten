@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/Gremlin 뿌시기/문법 몇개.md",
+                "file": "1.Project/Neo4J 뿌시기/000. 초기 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/Gremlin 뿌시기/문법 몇개.md",
+                "file": "1.Project/Neo4J 뿌시기/000. 초기 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/Gremlin 뿌시기/문법 몇개.md",
+                "file": "1.Project/Neo4J 뿌시기/000. 초기 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/Gremlin 뿌시기/문법 몇개.md"
+                "file": "1.Project/Neo4J 뿌시기/000. 초기 설정.md"
               }
             }
           }
@@ -163,9 +163,10 @@
   },
   "active": "730d577a8dc45c11",
   "lastOpenFiles": [
+    "1.Project/Neo4J 뿌시기/문법 몇개.md",
+    "1.Project/Neo4J 뿌시기/000. 초기 설정.md",
     "1.Project/멀티모듈 뿌시기/literature/바운디드 컨텍스트란?.md",
-    "1.Project/Gremlin 뿌시기/문법 몇개.md",
-    "1.Project/Gremlin 뿌시기",
+    "1.Project/Neo4J 뿌시기",
     "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature/리포지토리란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인 모델이란?.md",
@@ -191,7 +192,6 @@
     "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
     "1.Project/멀티모듈 뿌시기/permanent/004. 애그리거트.md",
-    "1.Project/멀티모듈 뿌시기/permanent/005. 주의사항.md",
     "1.Project/멀티모듈 뿌시기/permanent",
     "1.Project/멀티모듈 뿌시기/literature",
     "1.Project/멀티모듈 뿌시기",
