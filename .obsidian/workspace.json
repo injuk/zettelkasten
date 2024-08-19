@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/Neo4J 뿌시기/000. 초기 설정.md",
+                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/Neo4J 뿌시기/000. 초기 설정.md",
+                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/Neo4J 뿌시기/000. 초기 설정.md",
+                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/Neo4J 뿌시기/000. 초기 설정.md"
+                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md"
               }
             }
           }
@@ -163,8 +164,8 @@
   },
   "active": "730d577a8dc45c11",
   "lastOpenFiles": [
-    "1.Project/Neo4J 뿌시기/문법 몇개.md",
     "1.Project/Neo4J 뿌시기/000. 초기 설정.md",
+    "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
     "1.Project/멀티모듈 뿌시기/literature/바운디드 컨텍스트란?.md",
     "1.Project/Neo4J 뿌시기",
     "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
