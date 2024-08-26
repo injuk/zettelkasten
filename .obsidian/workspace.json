@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
+                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
+                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
+                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md"
+                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md"
               }
             }
           }
@@ -163,9 +163,10 @@
   },
   "active": "730d577a8dc45c11",
   "lastOpenFiles": [
-    "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
-    "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
+    "1.Project/Neo4J 뿌시기/003. 드라이브, 루트 생성.md",
     "1.Project/Neo4J 뿌시기/002. GraphFS 애플리케이션 설계.md",
+    "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
+    "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
     "4.Archive/Projects/멀티모듈 뿌시기/literature/바운디드 컨텍스트란?.md",
     "4.Archive/Projects/멀티모듈 뿌시기/literature/도메인이란?.md",
     "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
@@ -192,7 +193,6 @@
     "4.Archive/Projects/멀티모듈 뿌시기/002. DDD.md",
     "4.Archive/Projects/멀티모듈 뿌시기/permanent/007. 이벤트 스토밍.md",
     "4.Archive/Projects/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature/엔티티란?.md",
     "4.Archive/Projects/멀티모듈 뿌시기/permanent",
     "4.Archive/Projects/멀티모듈 뿌시기/literature",
     "4.Archive/Projects/멀티모듈 뿌시기",
