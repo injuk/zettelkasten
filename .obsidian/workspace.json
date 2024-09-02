@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "730d577a8dc45c11",
+            "id": "d1ae456e6b6c886a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
+                "file": "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Archive/Projects/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
+                "file": "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
+                "file": "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/Neo4J 뿌시기/001. 문법 몇개.md"
+                "file": "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md"
               }
             }
           }
@@ -162,41 +161,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "730d577a8dc45c11",
+  "active": "afe3e5b9e4ebccab",
   "lastOpenFiles": [
+    "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
+    "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
+    "4.Archive/Projects/Neo4J 뿌시기/002. GraphFS 애플리케이션 설계.md",
+    "4.Archive/Projects/Neo4J 뿌시기/001. 문법 몇개.md",
+    "4.Archive/Projects/Neo4J 뿌시기/000. 초기 설정.md",
+    "4.Archive/Projects/mJis-indarest/1.0.0/005. 생각 정리.md",
     "1.Project/Neo4J 뿌시기/003. 드라이브, 루트 생성.md",
-    "1.Project/Neo4J 뿌시기/002. GraphFS 애플리케이션 설계.md",
     "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
     "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature/바운디드 컨텍스트란?.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature/도메인이란?.md",
-    "1.Project/Neo4J 뿌시기/001. 문법 몇개.md",
-    "1.Project/Neo4J 뿌시기/000. 초기 설정.md",
+    "1.Project/멀티모듈 뿌시기/literature/바운디드 컨텍스트란?.md",
+    "1.Project/멀티모듈 뿌시기/literature/도메인이란?.md",
     "2.Area/놀러갈 궁리/2024-CTS",
-    "1.Project/Neo4J 뿌시기",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature/리포지토리란?.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature/도메인 모델이란?.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature/개념 모델이란?.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature/밸류 타입이란?.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature/유비쿼터스 언어란?.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature/도메인 영역.md",
+    "4.Archive/Projects/Neo4J 뿌시기",
+    "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
+    "1.Project/멀티모듈 뿌시기/literature/리포지토리란?.md",
+    "1.Project/멀티모듈 뿌시기/literature/도메인 모델이란?.md",
+    "1.Project/멀티모듈 뿌시기/literature/개념 모델이란?.md",
+    "1.Project/멀티모듈 뿌시기/literature/밸류 타입이란?.md",
+    "1.Project/멀티모듈 뿌시기/literature/유비쿼터스 언어란?.md",
+    "1.Project/멀티모듈 뿌시기/literature/도메인 영역.md",
     "3.Resource/IT/Dev/git rebase 등.md",
     "3.Resource/Zettelkasten/1.Fleeting/testcontainer에 flyway로 DB seeding하기.md",
     "3.Resource/Zettelkasten/1.Fleeting/백엔드 기초 수업 자료.md",
     "2.Area/영화/2024 상반기 결산.md",
     "2.Area/영화/2022 결산.md",
     "2.Area/영화/2023 결산.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/001. 공부한 내용.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/이벤트 스토밍.canvas",
+    "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
+    "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
     "스크린샷 2024-06-25 오후 7.10.53.png",
-    "4.Archive/Projects/멀티모듈 뿌시기/permanent/008. 직접 해보기.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/002. DDD.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/permanent/007. 이벤트 스토밍.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/permanent/002. 여러 도메인 객체.md",
-    "4.Archive/Projects/멀티모듈 뿌시기/permanent",
-    "4.Archive/Projects/멀티모듈 뿌시기/literature",
-    "4.Archive/Projects/멀티모듈 뿌시기",
+    "1.Project/멀티모듈 뿌시기/permanent/008. 직접 해보기.md",
+    "1.Project/멀티모듈 뿌시기/permanent",
+    "1.Project/멀티모듈 뿌시기/literature",
+    "1.Project/멀티모듈 뿌시기",
     "4.Archive/Projects/mJis-indarest/1.0.0",
     "2.Area/놀러갈 궁리/2024-FUK/images",
     "Pasted image 20240430205256.png",
