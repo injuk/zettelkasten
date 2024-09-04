@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md"
+                "file": "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md"
               }
             }
           }
@@ -161,10 +161,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afe3e5b9e4ebccab",
+  "active": "d1ae456e6b6c886a",
   "lastOpenFiles": [
-    "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
     "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
+    "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
     "4.Archive/Projects/Neo4J 뿌시기/002. GraphFS 애플리케이션 설계.md",
     "4.Archive/Projects/Neo4J 뿌시기/001. 문법 몇개.md",
     "4.Archive/Projects/Neo4J 뿌시기/000. 초기 설정.md",
