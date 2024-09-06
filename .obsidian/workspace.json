@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md"
+                "file": "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "d1ae456e6b6c886a",
   "lastOpenFiles": [
+    "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
     "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
     "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
@@ -190,7 +191,6 @@
     "2.Area/영화/2024 상반기 결산.md",
     "2.Area/영화/2022 결산.md",
     "2.Area/영화/2023 결산.md",
-    "1.Project/멀티모듈 뿌시기/001. 공부한 내용.md",
     "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
     "스크린샷 2024-06-25 오후 7.10.53.png",
     "1.Project/멀티모듈 뿌시기/permanent",
