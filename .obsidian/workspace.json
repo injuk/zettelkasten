@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
+                "file": "3.Resource/Etc/유용한 단축키들.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "단축",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
+                "file": "3.Resource/Etc/유용한 단축키들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
+                "file": "3.Resource/Etc/유용한 단축키들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md"
+                "file": "3.Resource/Etc/유용한 단축키들.md"
               }
             }
           }
@@ -163,6 +164,7 @@
   },
   "active": "d1ae456e6b6c886a",
   "lastOpenFiles": [
+    "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
     "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
@@ -178,7 +180,6 @@
     "1.Project/멀티모듈 뿌시기/literature/도메인이란?.md",
     "2.Area/놀러갈 궁리/2024-CTS",
     "4.Archive/Projects/Neo4J 뿌시기",
-    "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature/리포지토리란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인 모델이란?.md",
     "1.Project/멀티모듈 뿌시기/literature/개념 모델이란?.md",
