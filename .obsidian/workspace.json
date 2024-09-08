@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resource/Etc/유용한 단축키들.md",
+                "file": "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 개요.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,13 +78,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resource/Etc/유용한 단축키들.md",
+                "file": "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resource/Etc/유용한 단축키들.md",
+                "file": "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resource/Etc/유용한 단축키들.md"
+                "file": "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 개요.md"
               }
             }
           }
@@ -165,6 +163,9 @@
   },
   "active": "d1ae456e6b6c886a",
   "lastOpenFiles": [
+    "2.Area/놀러갈 궁리/2024-ㅊㅊ",
+    "3.Resource/Etc/유용한 단축키들.md",
+    "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 개요.md",
     "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
@@ -190,9 +191,6 @@
     "3.Resource/IT/Dev/git rebase 등.md",
     "3.Resource/Zettelkasten/1.Fleeting/testcontainer에 flyway로 DB seeding하기.md",
     "3.Resource/Zettelkasten/1.Fleeting/백엔드 기초 수업 자료.md",
-    "2.Area/영화/2024 상반기 결산.md",
-    "2.Area/영화/2022 결산.md",
-    "2.Area/영화/2023 결산.md",
     "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
     "스크린샷 2024-06-25 오후 7.10.53.png",
     "1.Project/멀티모듈 뿌시기/permanent",
