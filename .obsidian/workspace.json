@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 계획.md",
+                "file": "3.Resource/Etc/유용한 단축키들.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 계획.md",
+                "file": "3.Resource/Etc/유용한 단축키들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 계획.md",
+                "file": "3.Resource/Etc/유용한 단축키들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 계획.md"
+                "file": "3.Resource/Etc/유용한 단축키들.md"
               }
             }
           }
@@ -164,9 +164,9 @@
   },
   "active": "d1ae456e6b6c886a",
   "lastOpenFiles": [
+    "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 계획.md",
     "2.Area/놀러갈 궁리/2024-ㅊㅊ",
     "3.Resource/Etc/유용한 단축키들.md",
-    "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 계획.md",
     "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
     "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
@@ -201,7 +201,6 @@
     "2.Area/놀러갈 궁리/2024-FUK/images",
     "Pasted image 20240430205256.png",
     "2.Area/놀러갈 궁리/2024-FUK",
-    "4.Archive/Projects/bucket-bingo/SP002",
-    "4.Archive/Projects/bucket-bingo/SP001"
+    "4.Archive/Projects/bucket-bingo/SP002"
   ]
 }
