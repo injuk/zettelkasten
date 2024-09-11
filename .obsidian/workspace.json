@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
+                "file": "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md"
+                "file": "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "d1ae456e6b6c886a",
   "lastOpenFiles": [
+    "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
     "3.Resource/Etc/유용한 단축키들.md",
     "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 계획.md",
     "2.Area/놀러갈 궁리/2024-ㅊㅊ",
