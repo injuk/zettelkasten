@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
+                "file": "2.Area/놀러갈 궁리/2024-KIX/001. 개요.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
+                "file": "2.Area/놀러갈 궁리/2024-KIX/001. 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
+                "file": "2.Area/놀러갈 궁리/2024-KIX/001. 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md"
+                "file": "2.Area/놀러갈 궁리/2024-KIX/001. 개요.md"
               }
             }
           }
@@ -164,6 +164,9 @@
   },
   "active": "d1ae456e6b6c886a",
   "lastOpenFiles": [
+    "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
+    "2.Area/놀러갈 궁리/2024-KIX/001. 개요.md",
+    "2.Area/놀러갈 궁리/2024-KIX",
     "3.Resource/Etc/HHKB 단축키들.md",
     "3.Resource/Etc/유용한 단축키들.md",
     "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
@@ -179,7 +182,6 @@
     "4.Archive/Projects/Neo4J 뿌시기/000. 초기 설정.md",
     "4.Archive/Projects/mJis-indarest/1.0.0/005. 생각 정리.md",
     "1.Project/Neo4J 뿌시기/003. 드라이브, 루트 생성.md",
-    "2.Area/놀러갈 궁리/2024-CTS/001. 개요.md",
     "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
     "1.Project/멀티모듈 뿌시기/literature/바운디드 컨텍스트란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인이란?.md",
@@ -192,7 +194,6 @@
     "1.Project/멀티모듈 뿌시기/literature/유비쿼터스 언어란?.md",
     "1.Project/멀티모듈 뿌시기/literature/도메인 영역.md",
     "3.Resource/IT/Dev/git rebase 등.md",
-    "3.Resource/Zettelkasten/1.Fleeting/testcontainer에 flyway로 DB seeding하기.md",
     "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
     "스크린샷 2024-06-25 오후 7.10.53.png",
     "1.Project/멀티모듈 뿌시기/permanent",
@@ -201,7 +202,6 @@
     "4.Archive/Projects/mJis-indarest/1.0.0",
     "2.Area/놀러갈 궁리/2024-FUK/images",
     "Pasted image 20240430205256.png",
-    "2.Area/놀러갈 궁리/2024-FUK",
-    "4.Archive/Projects/bucket-bingo/SP002"
+    "2.Area/놀러갈 궁리/2024-FUK"
   ]
 }
