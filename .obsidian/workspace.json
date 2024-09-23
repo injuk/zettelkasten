@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "단축",
+                "query": "와이파이",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
