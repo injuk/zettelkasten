@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-KIX/005. 4일차 계획.md",
+                "file": "2.Area/놀러갈 궁리/2024-KIX/006. 후기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-KIX/005. 4일차 계획.md",
+                "file": "2.Area/놀러갈 궁리/2024-KIX/006. 후기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-KIX/005. 4일차 계획.md",
+                "file": "2.Area/놀러갈 궁리/2024-KIX/006. 후기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-KIX/005. 4일차 계획.md"
+                "file": "2.Area/놀러갈 궁리/2024-KIX/006. 후기.md"
               }
             }
           }
@@ -163,15 +163,17 @@
   },
   "active": "d1ae456e6b6c886a",
   "lastOpenFiles": [
+    "2.Area/놀러갈 궁리/2024-FUK/006. 후기.md",
+    "2.Area/놀러갈 궁리/2024-KIX/006. 후기.md",
+    "2.Area/놀러갈 궁리/2024-KIX/001. 개요.md",
+    "2.Area/놀러갈 궁리/2024-KIX/000.  fleeting.md",
+    "2.Area/놀러갈 궁리/2024-KIX/005. 4일차 계획.md",
     "2.Area/놀러갈 궁리/2024-KIX/003. 2일차 계획.md",
     "2.Area/놀러갈 궁리/2024-KIX/002. 1일차 계획.md",
-    "2.Area/놀러갈 궁리/2024-KIX/005. 4일차 계획.md",
     "2.Area/놀러갈 궁리/2024-KIX/004. 3일차 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/004. 5월 16일(목) 계획.md",
     "3.Resource/IT/Dev/정적 팩토리 메소드 명명하기.md",
     "3.Resource/Zettelkasten/1.Fleeting/점.md",
-    "2.Area/놀러갈 궁리/2024-KIX/000.  fleeting.md",
-    "2.Area/놀러갈 궁리/2024-KIX/001. 개요.md",
     "2.Area/놀러갈 궁리/2024-KIX/무제 폴더",
     "2.Area/놀러갈 궁리/2024-FUK/002. 5월 14일(화) 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
@@ -190,8 +192,6 @@
     "4.Archive/Projects/Neo4J 뿌시기/002. GraphFS 애플리케이션 설계.md",
     "4.Archive/Projects/Neo4J 뿌시기/001. 문법 몇개.md",
     "4.Archive/Projects/Neo4J 뿌시기/000. 초기 설정.md",
-    "4.Archive/Projects/mJis-indarest/1.0.0/005. 생각 정리.md",
-    "1.Project/Neo4J 뿌시기/003. 드라이브, 루트 생성.md",
     "2.Area/놀러갈 궁리/2024-CTS",
     "4.Archive/Projects/Neo4J 뿌시기",
     "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
