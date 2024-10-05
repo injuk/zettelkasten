@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-KIX/004. 3일차 계획.md",
+                "file": "2.Area/영화/2024 상반기 결산.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-KIX/004. 3일차 계획.md",
+                "file": "2.Area/영화/2024 상반기 결산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-KIX/004. 3일차 계획.md",
+                "file": "2.Area/영화/2024 상반기 결산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2024-KIX/004. 3일차 계획.md"
+                "file": "2.Area/영화/2024 상반기 결산.md"
               }
             }
           }
@@ -163,9 +163,19 @@
   },
   "active": "d1ae456e6b6c886a",
   "lastOpenFiles": [
+    "2.Area/영화/2023 결산.md",
+    "2.Area/영화/2024 상반기 결산.md",
+    "2.Area/영화/2022 결산.md",
+    "2.Area/한자공부/틀렸던 친구들!.md",
+    "2.Area/한자공부/1주차.md",
+    "2.Area/한자공부/4주차.md",
+    "2.Area/한자공부/무제 폴더",
+    "2.Area/한자공부/3주차.md",
+    "2.Area/한자공부/2주차.md",
+    "2.Area/한자공부",
+    "2.Area/놀러갈 궁리/2024-KIX/004. 3일차 계획.md",
     "2.Area/놀러갈 궁리/2024-KIX/002. 1일차 계획.md",
     "2.Area/놀러갈 궁리/2024-FUK/001. 개요.md",
-    "2.Area/놀러갈 궁리/2024-KIX/004. 3일차 계획.md",
     "2.Area/놀러갈 궁리/2024-KIX/005. 4일차 계획.md",
     "2.Area/놀러갈 궁리/2024-KIX/006. 후기.md",
     "2.Area/놀러갈 궁리/2024-FUK/006. 후기.md",
@@ -183,15 +193,7 @@
     "3.Resource/Etc/유용한 단축키들.md",
     "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
     "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
-    "2.Area/놀러갈 궁리/2024-ㅊㅊ/001. 계획.md",
     "2.Area/놀러갈 궁리/2024-ㅊㅊ",
-    "1.Project/멀티모듈 뿌시기/literature/루트 엔티티란?.md",
-    "1.Project/멀티모듈 뿌시기/literature/도메인 서비스란?.md",
-    "4.Archive/Projects/Neo4J 뿌시기/003. 회고.md",
-    "4.Archive/Projects/injuk-commentor/d. Commentor 회고.md",
-    "4.Archive/Projects/Neo4J 뿌시기/002. GraphFS 애플리케이션 설계.md",
-    "4.Archive/Projects/Neo4J 뿌시기/001. 문법 몇개.md",
-    "4.Archive/Projects/Neo4J 뿌시기/000. 초기 설정.md",
     "2.Area/놀러갈 궁리/2024-CTS",
     "4.Archive/Projects/Neo4J 뿌시기",
     "1.Project/멀티모듈 뿌시기/이벤트 스토밍.canvas",
@@ -199,8 +201,6 @@
     "1.Project/멀티모듈 뿌시기/permanent",
     "1.Project/멀티모듈 뿌시기/literature",
     "1.Project/멀티모듈 뿌시기",
-    "4.Archive/Projects/mJis-indarest/1.0.0",
-    "2.Area/놀러갈 궁리/2024-FUK/images",
     "Pasted image 20240430205256.png"
   ]
 }
