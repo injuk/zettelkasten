@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/한자공부/틀렸던 친구들!.md",
+                "file": "2.Area/한자공부/5주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/한자공부/틀렸던 친구들!.md",
+                "file": "2.Area/한자공부/5주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/한자공부/틀렸던 친구들!.md",
+                "file": "2.Area/한자공부/5주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/한자공부/틀렸던 친구들!.md"
+                "file": "2.Area/한자공부/5주차.md"
               }
             }
           }
@@ -164,10 +164,11 @@
   "active": "d1ae456e6b6c886a",
   "lastOpenFiles": [
     "2.Area/한자공부/4주차.md",
+    "2.Area/한자공부/5주차.md",
+    "2.Area/한자공부/틀렸던 친구들!.md",
     "2.Area/영화/2024 상반기 결산.md",
     "2.Area/영화/2023 결산.md",
     "2.Area/영화/2022 결산.md",
-    "2.Area/한자공부/틀렸던 친구들!.md",
     "2.Area/한자공부/1주차.md",
     "2.Area/한자공부/무제 폴더",
     "2.Area/한자공부/3주차.md",
@@ -192,7 +193,6 @@
     "3.Resource/Etc/HHKB 단축키들.md",
     "3.Resource/Etc/유용한 단축키들.md",
     "1.Project/멀티모듈 뿌시기/literature/애그리거트란?.md",
-    "4.Archive/Projects/bucket-bingo/SP002/002. PG 추가 후 Docker 관련 설정 수정.md",
     "2.Area/놀러갈 궁리/2024-ㅊㅊ",
     "2.Area/놀러갈 궁리/2024-CTS",
     "4.Archive/Projects/Neo4J 뿌시기",
