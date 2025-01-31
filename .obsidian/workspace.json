@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/영화/2024 결산.md",
+                "file": "2.Area/영화/2025 결산.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024 결산"
+              "title": "2025 결산"
             }
           }
         ],
@@ -88,8 +88,7 @@
               "title": "루트 엔티티란?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,10 +179,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4b48137c8defbbc",
+  "active": "947896e5a641209b",
   "lastOpenFiles": [
-    "2.Area/영화/2025 결산.md",
     "2.Area/영화/2024 결산.md",
+    "2.Area/영화/2025 결산.md",
     "2.Area/술/칵테일.md",
     "2.Area/술",
     "2.Area/한자공부/7주차.md",
