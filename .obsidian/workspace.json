@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "와이파이",
+                "query": "연말정산",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "루트 엔티티란?"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "947896e5a641209b",
+  "active": "e4b48137c8defbbc",
   "lastOpenFiles": [
     "2.Area/영화/2025 결산.md",
     "2.Area/영화/2024 결산.md",
