@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42e51e458f1bda3f",
+            "id": "f63327b6bf9cb227",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -180,10 +181,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42e51e458f1bda3f",
+  "active": "f63327b6bf9cb227",
   "lastOpenFiles": [
-    "2.Area/놀러갈 궁리/2025-CTS/001. 개요.md",
+    "2.Area/영화/2024 결산.md",
     "2.Area/영화/2025 결산.md",
+    "2.Area/놀러갈 궁리/2025-CTS/001. 개요.md",
     "2.Area/놀러갈 궁리/2025-CTS",
     "2.Area/놀러갈 궁리/2025-NGO/006. 후기.md",
     "2.Area/놀러갈 궁리/2024-FUK/004. 5월 16일(목) 계획.md",
@@ -207,7 +209,6 @@
     "2.Area/한자공부/3주차.md",
     "2.Area/한자공부/2주차.md",
     "2.Area/한자공부/6주차.md",
-    "2.Area/영화/2024 결산.md",
     "2.Area/영화/2022 결산.md",
     "2.Area/영화/2023 결산.md",
     "3.Resource/Zettelkasten/3.Permanent/CORS란?",
