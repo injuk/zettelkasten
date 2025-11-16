@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2026-XXX/000. KIX의 경우.md",
+                "file": "2.Area/놀러갈 궁리/2026-KIX/교토/000. 개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000. KIX의 경우"
+              "title": "000. 개요"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -184,8 +183,11 @@
   },
   "active": "eb31bde9aee0e3e1",
   "lastOpenFiles": [
+    "2.Area/놀러갈 궁리/2026-KIX/오사카/000.  개요.md",
+    "2.Area/놀러갈 궁리/2026-KIX/교토/000. 개요.md",
+    "2.Area/놀러갈 궁리/2026-KIX/교토",
+    "2.Area/놀러갈 궁리/2026-KIX/오사카",
     "2.Area/놀러갈 궁리/2026-XXX/000. NGS의 경우.md",
-    "2.Area/놀러갈 궁리/2026-XXX/000. KIX의 경우.md",
     "2.Area/놀러갈 궁리/2024-KIX/006. 후기.md",
     "2.Area/놀러갈 궁리/2024-KIX/005. 4일차 계획(24.11.26).md",
     "2.Area/놀러갈 궁리/2024-KIX/004. 3일차 계획(24.11.25).md",
@@ -193,7 +195,7 @@
     "2.Area/놀러갈 궁리/2024-KIX/002. 1일차 계획(24.11.23).md",
     "2.Area/놀러갈 궁리/2024-KIX/001. 개요.md",
     "2.Area/영화/2025 결산.md",
-    "2.Area/놀러갈 궁리/2026-XXX",
+    "2.Area/놀러갈 궁리/2026-KIX",
     "4.Archive/Glacier/면허/001. 외울 것.md",
     "4.Archive/Glacier",
     "2.Area/영화/2024 결산.md",
@@ -212,14 +214,11 @@
     "2.Area/놀러갈 궁리/2025-NGO/004. 4일차 (5월 18일, 일).md",
     "2.Area/놀러갈 궁리/2025-NGO/003. 3일차 (5월 17일, 토).md",
     "2.Area/놀러갈 궁리/2025-NGO/002. 2일차 (5월 16일, 금).md",
-    "2.Area/놀러갈 궁리/2025-NGO/001. 1일차 (5월 15일, 목).md",
     "2.Area/놀러갈 궁리/2025-CTS",
     "1.Project/Kanji",
     "2.Area/놀러갈 궁리/2025-NGO",
     "3.Resource/Zettelkasten/3.Permanent/CORS란?",
     "2.Area/술",
-    "2.Area/한자공부/무제 폴더",
-    "2.Area/한자공부",
     "4.Archive/Projects/멀티모듈 뿌시기/이벤트 스토밍.canvas",
     "스크린샷 2024-06-25 오후 7.10.53.png",
     "Pasted image 20240430205256.png"
