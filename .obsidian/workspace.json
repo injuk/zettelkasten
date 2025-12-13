@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48f49ecf0f86c442",
+            "id": "8224d05c0eca5af1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2026-KIX/오사카/000. 개요.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/클린 아키텍쳐란?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000. 개요"
+              "title": "클린 아키텍쳐란?"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -181,10 +182,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48f49ecf0f86c442",
+  "active": "8224d05c0eca5af1",
   "lastOpenFiles": [
-    "2.Area/놀러갈 궁리/2024-KIX/002. 1일차 계획(24.11.23).md",
+    "Pasted image 20251213153957.png",
     "2.Area/놀러갈 궁리/2026-KIX/오사카/000. 개요.md",
+    "3.Resource/Zettelkasten/1.Fleeting/클린 아키텍쳐란?.md",
+    "2.Area/놀러갈 궁리/2024-KIX/002. 1일차 계획(24.11.23).md",
     "2.Area/놀러갈 궁리/2024-KIX/005. 4일차 계획(24.11.26).md",
     "2.Area/놀러갈 궁리/2024-KIX/004. 3일차 계획(24.11.25).md",
     "2.Area/놀러갈 궁리/2024-KIX/003. 2일차 계획(24.11.24).md",
@@ -212,8 +215,6 @@
     "2.Area/놀러갈 궁리/2025-CTS/006. 후기.md",
     "3.Resource/Zettelkasten/1.Fleeting/elixir 개발 환경 설정.md",
     "2.Area/놀러갈 궁리/2025-CTS/005. 5일차 계획(25.08.14, 목).md",
-    "2.Area/놀러갈 궁리/2025-NGO/006. 후기.md",
-    "2.Area/놀러갈 궁리/2025-CTS/004. 4일차 계획(25.08.13, 수).md",
     "2.Area/놀러갈 궁리/2025-CTS",
     "1.Project/Kanji",
     "2.Area/놀러갈 궁리/2025-NGO",
