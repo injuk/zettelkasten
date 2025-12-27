@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/영화/2025 결산.md",
+                "file": "1.Project/면허/000. 도로주행 연수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 결산"
+              "title": "000. 도로주행 연수"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "8224d05c0eca5af1",
   "lastOpenFiles": [
-    "1.Project/면허/000. 도로주행 연수.md",
     "2.Area/영화/2025 결산.md",
+    "1.Project/면허/000. 도로주행 연수.md",
     "1.Project/면허",
     "3.Resource/Zettelkasten/1.Fleeting/HTTP 완벽 가이드 - 5장.md",
     "2.Area/놀러갈 궁리/2026-KIX/오사카/000. 개요.md",
