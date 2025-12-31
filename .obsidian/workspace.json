@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/놀러갈 궁리/2025-CTS/002. 2일차 계획(25.08.11, 월).md",
+                "file": "1.Project/mindjuk/joka/000. 개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. 2일차 계획(25.08.11, 월)"
+              "title": "000. 개요"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "415aa10295ef3466",
@@ -183,6 +184,11 @@
   },
   "active": "8224d05c0eca5af1",
   "lastOpenFiles": [
+    "2.Area/놀러갈 궁리/2025-CTS/002. 2일차 계획(25.08.11, 월).md",
+    "1.Project/mindjuk/joka/000. 개요.md",
+    "1.Project/mindjuk/joka",
+    "1.Project/mindjuk",
+    "1.Project/무제",
     "3.Resource/Zettelkasten/1.Fleeting/HTTP 완벽 가이드 - 5장.md",
     "1.Project/면허/000. 도로주행 연수.md",
     "2.Area/영화/2025 결산.md",
@@ -214,12 +220,7 @@
     "1.Project/Kanji/000. 설계.md",
     "4.Archive/Glacier/면허",
     "2.Area/영화/2022 결산.md",
-    "2.Area/놀러갈 궁리/2025-CTS/006. 후기.md",
-    "3.Resource/Zettelkasten/1.Fleeting/elixir 개발 환경 설정.md",
     "2.Area/놀러갈 궁리/2025-CTS",
-    "1.Project/Kanji",
-    "2.Area/놀러갈 궁리/2025-NGO",
-    "3.Resource/Zettelkasten/3.Permanent/CORS란?",
     "4.Archive/Projects/멀티모듈 뿌시기/이벤트 스토밍.canvas",
     "스크린샷 2024-06-25 오후 7.10.53.png",
     "Pasted image 20240430205256.png"
