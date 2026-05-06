@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Project/mindjuk/joka/001. 모델링.md",
+                "file": "3.Resource/Zettelkasten/1.Fleeting/면접 질문.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. 모델링"
+              "title": "면접 질문"
             }
           },
           {
@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -197,7 +196,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d77661b7c20060b",
+  "active": "4c30bb4bf45a68c7",
   "lastOpenFiles": [
     "1.Project/mindjuk/joka/001. 모델링.md",
     "3.Resource/Zettelkasten/1.Fleeting/면접 질문.md",
