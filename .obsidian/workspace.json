@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "001. 회고"
             }
+          },
+          {
+            "id": "9a583577ea37c921",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.14.5"
+            }
           }
         ],
         "stacked": true
