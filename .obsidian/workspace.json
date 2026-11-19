@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "001. 회고"
             }
-          },
-          {
-            "id": "11a15db0b30d4887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Area/놀러갈 궁리/2024-FUK/006. 후기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "006. 후기"
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -197,7 +182,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "11a15db0b30d4887",
+  "active": "2d77661b7c20060b",
   "lastOpenFiles": [
     "2.Area/놀러갈 궁리/2024-FUK/006. 후기.md",
     "2.Area/놀러갈 궁리/2026-CTS/001. 회고.md",
